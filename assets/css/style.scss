@@ -7,10 +7,44 @@
   "minima/initialize";
 
 $header-colour: #2196f3;
+$page-bg: #efefef;
+$page-fg: #fdfdfd;
 
 main h1 {
     // border-bottom: $header-colour solid 2px;
     padding: 0.5em 0;
     color: $header-colour;
     font-weight: 600;
+}
+
+main>.wrapper {
+  background: $page-fg;
+}
+
+.site-footer {
+  border: none;
+}
+
+.participation-form {
+  display: flex;
+  justify-content: center;
+}
+
+.site-header {
+  border: none;
+}
+
+@media only screen and (min-width: 600px) {
+  main {
+    background: $page-bg;
+  }
+
+  .site-footer {
+    background: $page-bg;
+  }
+
+  main>.wrapper {
+    padding: 6em;
+    border-radius: 0.7em;
+  }
 }
