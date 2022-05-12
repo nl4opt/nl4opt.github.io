@@ -18,17 +18,14 @@ More details about the NeurIPS 2022 competition (e.g. data, starter kit, tutoria
 
 The following dates use the [anywhere on earth (AoE)](https://www.timeanddate.com/time/zones/aoe) time zone:
 
-1. **July 1st, 2022:** <u>Competition kickoff:</u> The registration is opened and participants can download the starterkit and the training/validation datasets.
-
-2. **July 15th, 2022:** The leaderboard and forum are opened and the submissions are accepted.
-
-3. **October 15th, 2022:** Deadline for submission.
-
-4. **October 31st, 2022:** <u>Winners notification.</u> Winning teams are notified and instructed to provide information that will be included in the workshop report.
-
-5. **November 20th, 2022:** Report submission deadline.
-
-6. **December 2022:** NeurIPS competition workshop.
+| Event | Date |
+|-----|----|
+|**Competition kickoff.** The registration is opened and participants can download the starterkit and the training/validation datasets.|July 1st, 2022|
+|**Submission available.** The leaderboard and forum are opened, and the submissions are accepted.|July 15th, 2022|
+|**Deadline for submission.**|October 15th, 2022|
+|**Winners notification.** Winning teams are notified and instructed to provide information that will be included in the workshop report.| October 31st, 2022|
+|**Report submission deadline.**| November 20th, 2022|
+|**NeurIPS competition workshop.**|December 2022|
 
 # Introduction 
 
@@ -54,7 +51,7 @@ where $$P$$ and $$R$$ are the average precision and average recall averaged over
 
 **Sub-task 2 (generation):** The solutions will be evaluated using an application-specific metric since the task is motivated by the need to precisely formulate the optimization problem. The models will be benchmarked based on the declaration-level mapping accuracy given by:
 
-$$Acc = 1-\sum_{i=1}^N\frac{\sum_{i=1}^NFP_{i}}{\sum_{i=1}^{N}D_{i}},$$
+$$\text{Acc} = 1-\sum_{i=1}^N\frac{\sum_{i=1}^NFP_{i}}{\sum_{i=1}^{N}D_{i}},$$
 
 where $$N$$ is the number of LP problems in the test set. For each LP problem $$i$$, $$D_{i}$$ is the number of ground-truth declarations. The false positive $$FP_{i}$$ is the number of non-matched predicted declarations whereas the false negative $$FN_{i}$$ denotes the number of ground-truth declarations without a match.
 

@@ -9,7 +9,8 @@
 $header-colour: #2196f3;
 
 main h1 {
-    border-bottom: $header-colour solid 2px;
-    padding: 0.5em;
+    // border-bottom: $header-colour solid 2px;
+    padding: 0.5em 0;
     color: $header-colour;
+    font-weight: 600;
 }
