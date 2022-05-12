@@ -1,0 +1,10 @@
+main h1 {
+    border-bottom: #2196f3 solid 2px;
+    padding: 0.8em;
+    color: #2196f3;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
