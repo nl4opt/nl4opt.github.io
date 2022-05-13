@@ -9,6 +9,8 @@
 $header-colour: #2196f3;
 $page-bg: #efefef;
 $page-fg: #fdfdfd;
+$title-size: 4em;
+$title-colour: #111111;
 
 main h1 {
     // border-bottom: $header-colour solid 2px;
@@ -32,6 +34,26 @@ main>.wrapper {
 
 .site-header {
   border: none;
+}
+
+
+.page-title {
+    color: $title-colour;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: $title-size;
+    padding-bottom: 1em;
+    border-bottom: $title-colour solid 3px;
+}
+
+.page-title>.title{
+    font-size: $title-size;
+}
+
+.page-title>.nips-logo{
+    height: $title-size;
 }
 
 @media only screen and (min-width: 600px) {
