@@ -14,7 +14,9 @@ title: Welcome to the NL4Opt competition website
 
 <div class="page-title">
     <div class="title">NL4Opt</div>
+        <a href="https://nips.cc/Conferences/2022/">
         <img class="nips-logo" src="figures/NeurIPS_logo.svg" href="https://nips.cc/Conferences/2022/">
+        </a>
 </div>
 
 You can find the competition rules and answers to commonly asked questions here.
