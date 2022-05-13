@@ -12,11 +12,12 @@ title: Welcome to the NL4Opt competition website
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<div class="page-title"><div class="title">NL4Opt</div><img class="nips-logo" src="figures/NeurIPS_logo.svg"></div>
+<div class="page-title"><div class="title">NL4Opt</div>[<img class="nips-logo" src="figures/NeurIPS_logo.svg">](https://nips.cc/Conferences/2022/)</div>
 
 You can find the competition rules and answers to commonly asked questions here.
 
 # News
+
 * More details about the NeurIPS 2022 competition (e.g. data, starter kit, tutorial, notebooks, etc...) will be provided soon. Stay tuned!
 
 # Important Dates
