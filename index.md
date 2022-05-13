@@ -52,7 +52,7 @@ The two inter-related tasks are to find an intelligent solution to:
 
 **The goal of this task** is to recognize the label the semantic entities that correspond to the components of the optimization problem. The solutions of the task will take as input an optimization description as a word problem that describes the decision variables, the objective, and a set of constraints. The multi-sentence word problem input exhibits a high level of ambiguity due to the variability of the linguistic patterns, problem domains, and problem structures. **This first task aims to reduce the ambiguity by detecting and tagging the entities of the optimization problems** such as the objective name, decision variable names, or the constraint limits. This is a preliminary step to simplify the second sub-task and can be seen as a preprocessing task.
 
-**Metric:** F1-score
+**Metric:** F1 score
 
 **Relevant resources:**
 
@@ -82,7 +82,7 @@ The two inter-related tasks are to find an intelligent solution to:
 
 # Metrics
 
-**Sub-task 1 (named entity recognition):** The solutions will be evaluated on their achieved micro-averaged F1-score:
+**Sub-task 1 (named entity recognition):** The solutions will be evaluated on their achieved micro-averaged F1 score:
 
 $$\text{F1} ={2\times P \times R \over P+R},$$
 

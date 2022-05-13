@@ -35,6 +35,10 @@ url: https://nl4opt.github.io  # the base hostname and protocol for your site, e
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-last-modified-at
+
+last-modified-at:
+    date-format: '%d-%b-%y'
 
 header_pages:
   
