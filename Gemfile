@@ -16,7 +16,6 @@ gem "minima", "~> 2.5"
 gem "github-pages", "~> 226", group: :jekyll_plugins
 gem "webrick", "1.7.0"
 gem "nokogiri", "1.13.6"
-gem "jekyll-last-modified-at" , "1.3.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
