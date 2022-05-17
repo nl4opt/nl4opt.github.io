@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Getting Started
-permalink: /starterkit/
+permalink: /gettingstarted/
 
 ---
 

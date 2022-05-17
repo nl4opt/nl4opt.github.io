@@ -84,7 +84,7 @@ The two inter-related tasks are to find an intelligent solution to:
 
 - [Thesis - Learning meaning representations for text generation with deep generative models](https://www.repository.cam.ac.uk/handle/1810/305297). Kris Cao, *University of Cambridge Dissertation*, 2019.
 
-**For more information** regarding the type of data in each sub-task and the resources provided to help you get started, visit the [Getting Started](https://nl4opt.github.io/starterkit/) page of our website.
+**For more information** regarding the type of data in each sub-task and the resources provided to help you get started, visit the [Getting Started](https://nl4opt.github.io/getttingstarted/) page of our website.
 
 # Metrics
 
