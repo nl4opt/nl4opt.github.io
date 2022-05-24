@@ -19,7 +19,7 @@ title: Welcome to the NL4Opt competition website
         </a>
 </div>
 
-You can find the competition rules and answers to commonly asked questions here.
+You can find the competition [rules](https://nl4opt.github.io/rules/) and answers to [commonly asked questions](https://nl4opt.github.io/faq/) on this competition website.
 
 # News
 
