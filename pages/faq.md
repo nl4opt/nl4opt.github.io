@@ -6,15 +6,15 @@ permalink: /faq/
 
 # FAQ
 
-We have listed some frequently asked questions below. If you still have any further questions, please refer to the "contact" section of the website to reach our organizers.
+We have listed some frequently asked questions below. If you still have any further questions, please refer to the [Contact](https://nl4opt.github.io/contact/) page of the website to reach our organizers.
 
 **Q**: *How do I participate in the competition?*
 
-You just need to register by filling out a form on the website and entering your name (if you participate as an individual) or your team leader's name (if you participate as a team), email address, and affiliation. In addition, you need to agree to abide by the rules of the competition. After the registration is complete, you will receive an ID code that will help us identify your submissions or your team's. You may then download the starter kit and get started!
+You just need to register by filling out the registration form in the [Participate](https://nl4opt.github.io/participate/) page. On the first page, submit your team name, contact email address, and each participant must read through and accept the [Rules](https://nl4opt.github.io/rules/) of the competition. On the second page, enter your each participant's name, affiliation, and email address as formatted in the description of the form. After the registration is complete, you will receive an ID code that will help us identify your submissions or your team's. You may then download the starter kit and get started!
 
 **Q**: *How many members can we have on a team?*
 
-Teams can have up to 6 individuals.
+There is no limit to the number of members on a team.
 
 **Q**: *I do not have a team. Can I still participate?*
 
