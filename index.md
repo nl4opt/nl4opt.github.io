@@ -13,7 +13,7 @@ title: Welcome to the NL4Opt competition website
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 <div class="page-title">
-    <div class="title">NL4Opt</div>
+    <div class="title"> <img class="nips-logo" src="figures/nl4optlogo.png" height="75"></div>
         <a href="https://nips.cc/Conferences/2022/">
         <img class="nips-logo" src="figures/NeurIPS_logo.svg" width="150" height="75">
         </a>
