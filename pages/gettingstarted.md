@@ -7,7 +7,7 @@ permalink: /gettingstarted/
 
 # Dataset
 
-[Data repository](https://github.com/nl4opt/data)
+[Data repository](https://github.com/nl4opt/nl4opt-competition/tree/main/data)
 
 The novel dataset in this competition has never been publically released. It consists of a total of 600 annotated linear programming (LP) word problems from 6 different domains. For both sub-tasks, it is important to evaluate whether models generalize to unseen problem domains. Therefore, LP problems from the three similar domains of sales, advertising, and investment have been included in both training, validation, and testing splits. On the other hand, problems from three other domains (production, transportation, and health sciences) have been allocated for the test split. By doing so, the test set will test for the generalizability of solutions to new problem domains. Please note that it is against the rules to manually expand the dataset (i.e. change the words of the training data to fit production/transportation/health sciences problems) since the focus of this competition is to leverage a smaller dataset and create a robust solution. However, intelligent methods of augmentation is permitted.
 
@@ -23,7 +23,7 @@ For the second sub-task, the inputs are the problem description, its set of prob
 
 # Starter kit
 
-[Starter kit repository](https://github.com/nl4opt/starter-kit)
+[Starter kit repository](https://github.com/nl4opt/nl4opt-competition/tree/main/starter-kit)
 
 The provided "starter kit" includes baseline models, training/evaluation code, data loaders, and scripts to convert data formats (into a canonical format that is used for the evaluation):
 
