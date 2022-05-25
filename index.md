@@ -96,9 +96,9 @@ where $$P$$ and $$R$$ are the average precision and average recall averaged over
 
 **Sub-task 2 (generation):** The solutions will be evaluated using an application-specific metric since the task is motivated by the need to precisely formulate the optimization problem. The models will be benchmarked based on the declaration-level mapping accuracy given by:
 
-$$\text{Acc} = 1-\sum_{i=1}^N\frac{\sum_{i=1}^NFP_{i}}{\sum_{i=1}^{N}D_{i}},$$
+$$\text{Acc} = 1-\frac{\sum_{i=1}^N\text{FP}_{i} + \text{FN}_i}{\sum_{i=1}^{N}D_{i}},$$
 
-where $$N$$ is the number of LP problems in the test set. For each LP problem $$i$$, $$D_{i}$$ is the number of ground-truth declarations. The false positive $$FP_{i}$$ is the number of non-matched predicted declarations whereas the false negative $$FN_{i}$$ denotes the number of ground-truth declarations without a match.
+where $$N$$ is the number of LP problems in the test set. For each LP problem $$i$$, $$D_{i}$$ is the number of ground-truth declarations. The false positive $$\text{FP}_{i}$$ is the number of non-matched predicted declarations whereas the false negative $$\text{FN}_{i}$$ denotes the number of ground-truth declarations without a match.
 
 # Prizes
 
