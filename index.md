@@ -70,6 +70,12 @@ The two inter-related tasks are to find an intelligent solution to:
 
 - [Symlink- Linking Mathematical Symbols to their Descriptions](https://arxiv.org/abs/2202.09695). Lai et al., *arXiv*, 2022.
 
+- [PyTorch Tutorial - Named Entity Recognition Tagging](https://cs230.stanford.edu/blog/namedentity/). *Stanford Blog.*
+
+- [Keras Tutorial - Named Entity Recognition using Transformers](https://keras.io/examples/nlp/ner_transformers/). *Keras Tutorial.*
+
+- [Tutorial - How to Fine-Tune BERT for Named Entity Recognition (NER)](https://skimai.com/how-to-fine-tune-bert-for-named-entity-recognition-ner/)
+
 ## Sub-task 2 - generating the precise meaning representation
 
 **The goal of this task** is to take as input the problem description, the labeled semantic entities, and the order mapping of variable mentions and formulate the precise meaning representation. This meaning representation will be converted into a format that solvers can understand. The solutions will be evaluated on the canonical form and conversion scripts from our pilot study has been released as part of the starter kit. We welcome you to create your own meaning representation or use the representation and conversion scripts provided in the starter kit.
