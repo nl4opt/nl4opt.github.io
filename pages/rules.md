@@ -8,9 +8,9 @@ permalink: /rules/
 
 - We welcome participation from everyone who satisfies the eligibility conditions outlined in the Eligibility Section. 
 
-- A participant can be either an individual or a team (i.e. a group of people working together during the entire duration of the competition).
+- A team can be either an individual or a group of individuals working together during the entire duration of the competition.
 
-- Each participant may submit up to 5 times per day.
+- Each team may submit up to 5 times per day.
 
 - To receive the awards from this competition, winners must attend the NeurIPS workshop.
 
@@ -30,7 +30,7 @@ permalink: /rules/
 
 # Eligibility
 
-- Individuals must be eligible  to participate in this competition.
+- Individuals must be eligible to participate in this competition.
 
 - To be deemed eligible, the following requirements must be met:
   
@@ -58,6 +58,6 @@ permalink: /rules/
 
 - Participants may not use proprietary datasets or proprietary models. However, you may use open-sourced models such as pre-trained transformers or language models.
 
-- Participants may not expand the dataset manually since the focus of this competition is to work with a smaller dataset. However, intelligent data augmentation or open-sources datasets to pre-train the transformers or language models are permitted.
+- Participants may not expand the dataset manually since the focus of this competition is to work with a smaller dataset. However, intelligent data augmentation or open-sourced datasets to pre-train the transformers or language models are permitted.
 
 - The organizers will inspect the data reader/loader provided by the participants.

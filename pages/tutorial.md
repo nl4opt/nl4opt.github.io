@@ -5,11 +5,25 @@ permalink: /tutorial/
 
 ---
 
-# **Subtask-1 (NER) Baseline Tutorial**
+# Tutorial
+
+This tutorial page goes through the process to register and submission. It then gives a tutorial on how to set up the baseline of each subtask.
+
+If you have further questions, we encourage you to refer to the [FAQ page](https://nl4opt.github.io/faq/) and use our [forum](https://github.com/nl4opt/nl4opt/discussions) for discussion.
+
+# 1. Registration
+
+To register for this competition, head to the [Participate page](https://nl4opt.github.io/participate/) and follow the instructions. Please read through the competition rules before you accept to abide by them. After completing and submitting the form, your team will receive an email in the "team" email address provided in the first page of the registration form. Confirm the contents of your submission by double-checking the table attached in the email. If the contents are incorrect, you may edit the response of your registration following a link provided in the email. The "Team Name" field is the text used to identify your submission and publish to the leaderboards.
+
+# 2. Submission
+
+After your registration, within two work days (PST), you will receive an email with instructions for the submission protocol and a link to a cloud storage folder accessible only by the organizers and your team. You will upload your scripts and transformers or language models to this folder and they will be evaluated every Monday and Friday (PST) throughout the competition.
+
+# 3a. Subtask-1 (NER) Baseline Tutorial
 
 This pretrained baseline transformer model is adapted from a popular NER competition [(MultiCoNER)](https://multiconer.github.io/) that leverages XLM-RoBERTa-base model which is a multilingual version of RoBERTA.
 
-The model was evaluated on the reserved three new domains (production, science, and transportation) which are not represented in the released train or dev dataset (see rows 1-3 below). It was then also evaluated on 50 reserved samples from the same domain as those released to the participants ("Original Domains" below). Finally, the model was evaluated on the entire test set made up of all reserved sampled described above ("Entire Test Set" below). The leaderboard and final standings will only consider the micro-averaged F1 score (right-most column) of the submitted models on the entire test set. . This model achieved the following F1 scores:
+The model was evaluated on the reserved three new domains (production, science, and transportation) which are not represented in the released train or dev dataset (see rows 1-3 below). It was then also evaluated on 50 reserved samples from the same domain as those released to the participants ("Original Domains" below). Finally, the model was evaluated on the entire test set made up of all reserved sampled described above ("Entire Test Set" below). The leaderboard and final standings will only consider the micro-averaged F1 score (right-most column) of the submitted models on the entire test set. This model achieved the following F1 scores:
 
 |                                | CONST<br/>DIR | LIMIT  | OBJ<br/>DIR | OBJ<br/>NAME | PARAM  | VAR    | MICRO<br/>AVG |
 | ------------------------------ | ------------- | ------ | ----------- | ------------ | ------ | ------ | ------------- |
@@ -51,12 +65,12 @@ Execute the following commands to train, fine-tune, and evaluate the model on th
 
 ## Fine-tuning the model
 
-`python fine_tune.py --train ./data/train/train.txt --dev ./data/dev/dev.txt --out_dir ./trained_model --model_name xlmr_lr_0.0001 --gpus 1 --epochs 15 --encoder_model xlm-roberta-base --batch_size 64 --lr 0.0001 --model ./trained_model/xlmr_lr_0.0001/lightning_logs/version_0`
+`python fine_tune.py --train ./data/train/train.txt --out_dir ./trained_model --model_name xlmr_lr_0.0001 --gpus 1 --epochs 15 --encoder_model xlm-roberta-base --batch_size 64 --lr 0.0001 --model ./trained_model/xlmr_lr_0.0001/lightning_logs/version_0`
 
 ## Evaluating the model on the dev set
 
 `python evaluate.py --test ./data/dev/dev.txt --out_dir ./trained_model --model_name xlmr_lr_0.0001 --gpus 1 --encoder_model xlm-roberta-base --batch_size 64 --model ./trained_model/xlmr_lr_0.0001/lightning_logs/version_1`
 
-# Subtask-2 (Generation) Tutorial
+# 3b. Subtask-2 (Generation) Tutorial
 
 Coming soon...
