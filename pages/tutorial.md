@@ -71,6 +71,6 @@ Execute the following commands to train, fine-tune, and evaluate the model on th
 
 `python evaluate.py --test ./data/dev/dev.txt --out_dir ./trained_model --model_name xlmr_lr_0.0001 --gpus 1 --encoder_model xlm-roberta-base --batch_size 64 --model ./trained_model/xlmr_lr_0.0001/lightning_logs/version_1`
 
-# 3b. Subtask-2 (Generation) Tutorial
+# 3b. Subtask-2 (Generation) Baseline Tutorial
 
 Coming soon...
