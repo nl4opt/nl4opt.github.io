@@ -25,13 +25,13 @@ This pretrained baseline transformer model is adapted from a popular NER competi
 
 The model was evaluated on the reserved three new domains (production, science, and transportation) which are not represented in the released train or dev dataset (see rows 1-3 below). It was then also evaluated on 50 reserved samples from the same domain as those released to the participants ("Original Domains" below). Finally, the model was evaluated on the entire test set made up of all reserved sampled described above ("Entire Test Set" below). The leaderboard and final standings will only consider the micro-averaged F1 score (right-most column) of the submitted models on the entire test set. This model achieved the following F1 scores:
 
-|                                | CONST<br/>DIR | LIMIT  | OBJ<br/>DIR | OBJ<br/>NAME | PARAM  | VAR    | MICRO<br/>AVG |
-| ------------------------------ | ------------- | ------ | ----------- | ------------ | ------ | ------ | ------------- |
-| **Production<br>(n=49)**       | 0.8205        | 0.9262 | 1.000       | 0.2295       | 0.9567 | 0.7122 | 0.8068        |
-| **Science<br>(n=50)**          | 0.8759        | 0.8992 | 0.6667      | 0.000        | 0.8249 | 0.7881 | 0.7890        |
-| **Transportation<br>(n=50)**   | 0.8083        | 0.8757 | 0.7619      | 0.0899       | 0.9034 | 0.7881 | 0.7849        |
-| **Original Domains<br>(n=50)** | 0.8764        | 0.8808 | 0.8571      | 0.8286       | 0.9215 | 0.8270 | 0.8659        |
-| **Entire Test Set<br>(n=199)** | 0.8411        | 0.8933 | 0.8679      | 0.4947       | 0.9012 | 0.7792 | 0.8126*       |
+|                                | CONST<br/>DIR | LIMIT | OBJ<br/>DIR | OBJ<br/>NAME | PARAM | VAR | MICRO<br/>AVG |
+| ------------------------------ | ------------- | ----- | ----------- | ------------ | ----- | --- | ------------- |
+| **Production<br>(n=49)**       |               |       |             |              |       |     |               |
+| **Science<br>(n=50)**          |               |       |             |              |       |     |               |
+| **Transportation<br>(n=50)**   |               |       |             |              |       |     |               |
+| **Original Domains<br>(n=50)** |               |       |             |              |       |     |               |
+| **Entire Test Set<br>(n=199)** |               |       |             |              |       |     | \*            |
 
 *\* Value that will be reported on the leaderboards page and used for the final evaluation when determining the winners.*
 
