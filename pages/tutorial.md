@@ -73,4 +73,4 @@ Execute the following commands to train, fine-tune, and evaluate the model on th
 
 # 3b. Subtask-2 (Generation) Baseline Tutorial
 
-Coming soon...
+See the README for [subtask-2](https://github.com/nl4opt/nl4opt-subtask2-baseline) for a tutorial on training a baseline BART model.
