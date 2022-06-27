@@ -104,7 +104,7 @@ where $$P$$ and $$R$$ are the average precision and average recall averaged over
 
 $$\text{Acc} = 1-\frac{\sum_{i=1}^N\text{FP}_{i} + \text{FN}_i}{\sum_{i=1}^{N}D_{i}},$$
 
-where $$N$$ is the number of LP problems in the test set. For each LP problem $$i$$, $$D_{i}$$ is the number of ground-truth declarations. The false positive $$\text{FP}_{i}$$ is the number of non-matched predicted declarations whereas the false negative $$\text{FN}_{i}$$ denotes the number of ground-truth declarations without a match.
+where $$N$$ is the number of LP problems in the test set. For each LP problem $$i$$, $$D_{i}$$ is the number of ground-truth declarations. The false positive $$\text{FP}_{i}$$ is the number of non-matched predicted declarations whereas the false negative $$\text{FN}_{i}$$ denotes the number of excess unmatched ground-truth declarations. In other words, false negatives are counted when there are more ground-truth declarations than predicted declarations. A false positive is counted when there is a predicted declaration that does not match any ground-truth declaration.
 
 # Prizes
 
