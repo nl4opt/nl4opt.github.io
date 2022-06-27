@@ -73,4 +73,41 @@ Execute the following commands to train, fine-tune, and evaluate the model on th
 
 # 3b. Subtask-2 (Generation) Baseline Tutorial
 
-See the README for [subtask-2](https://github.com/nl4opt/nl4opt-subtask2-baseline) for a tutorial on training a baseline BART model.
+In the starter kit, you will find the files required to train a baseline model using BART.
+## Environment Setup
+We have provided a Conda environment file `environment.yml`. To install:
+
+```
+conda env create -f environment.yml
+conda activate myenv
+```
+
+Verify that it was installed:
+```
+conda env list
+```
+
+## Training
+The subfolder `./configs` should contain the configuration file for setting up the model configuration and the training hyperparameters. The configuration file `baseline.json` corresponds to the baseline model for subtask 2. To run the training with our configuration:
+
+```
+python train.py --config configs/baseline.json
+```
+
+The important parameters here are `use_copy`, `per_declaration`,  and `use_prompt`. 
+
+- `use_copy` uses a copy mechanism that computes $P_\text{copy}$ over the input tokens. 
+- `per_declaration` controls each training data sample to correspond to a single declaration of a given LP problem instead of the entire formulation (i.e. all declarations in the problem).
+- `use_prompt` uses a declaration prompt to focus the generation. For example, the `<OBJ_DIR>` is used as a prompt for generating the objective declaration.
+
+Note that beam search is available as an alternative to greedy search in decoding; however, we found that greedy search worked better.
+
+## Testing
+To evaluate the model:
+```
+python test.py --gpu <gpu id> --checkpoint <checkpoint.mdl> --test-file <test.jsonl>
+```
+More details about scoring can be found in the `notebooks` folder [here](/notebooks/demo.ipynb). For reference, our baseline model achieves a per-declaration accuracy of `Acc = 0.60` on the test set. Note however that the test set is held out and will not be shared to participants.
+
+
+For more details, see the README for [subtask-2](https://github.com/nl4opt/nl4opt-subtask2-baseline) for a tutorial on training a baseline BART model.
