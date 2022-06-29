@@ -56,6 +56,15 @@ main>.wrapper {
     height: $title-size;
 }
 
+.figure {
+  text-align: center;
+  margin: 2em 0em;
+}
+
+.figure>.tutorial-figure {
+  padding: 1em 0em;
+}
+
 @media only screen and (min-width: 600px) {
   main {
     background: $page-bg;

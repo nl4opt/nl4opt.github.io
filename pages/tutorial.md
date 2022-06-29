@@ -21,6 +21,11 @@ After your registration, within two work days (PST), you will receive an email w
 
 # 3a. Subtask-1 (NER) Baseline Tutorial
 
+<div class="figure">
+    <img class="tutorial-figure" src="../figures/subtask1.png">
+    Overview of how our baseline model generates predictions for subtask 1.
+</div>
+
 This pretrained baseline transformer model is adapted from a [popular NER competition](https://multiconer.github.io/) that leverages XLM-RoBERTa-base model which is a multilingual version of RoBERTA.
 
 The model was evaluated on the reserved three new domains (production, science, and transportation) which are not represented in the released train or dev dataset (see rows 1-3 below). It was then also evaluated on 50 reserved samples from the same domain as those released to the participants ("Original Domains" below). Finally, the model was evaluated on the entire test set made up of all reserved sampled described above ("Entire Test Set" below). The leaderboard and final standings will only consider the micro-averaged F1 score (right-most column) of the submitted models on the entire test set. This model achieved the following F1 scores:
@@ -72,6 +77,11 @@ Execute the following commands to train, fine-tune, and evaluate the model on th
 `python evaluate.py --test ./data/dev/dev.txt --out_dir ./trained_model --model_name xlmr_lr_0.0001 --gpus 1 --encoder_model xlm-roberta-base --batch_size 64 --model ./trained_model/xlmr_lr_0.0001/lightning_logs/version_1`
 
 # 3b. Subtask-2 (Generation) Baseline Tutorial
+
+<div class="figure">
+    <img class="tutorial-figure" src="../figures/subtask2.png">
+    Overview of how our baseline model generates predictions for subtask 2.
+</div>
 
 In the starter kit, you will find the files required to train a baseline model using BART.
 
