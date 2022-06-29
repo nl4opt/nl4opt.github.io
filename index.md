@@ -66,15 +66,13 @@ The two inter-related tasks are to find an intelligent solution to:
 
 - [A Survey on Deep Learning for Named Entity Recognition](https://doi.ieeecomputersociety.org/10.1109/TKDE.2020.2981314). Li et al., *IEEE Transactions on Knowledge and Data Engineering*, 2022,
 
-- [MeasEval – Extracting Counts and Measurements and their Related Contexts](http://dx.doi.org/10.18653/v1/2021.semeval-1.38). Harper et al., *Association for Computational Linguistics*, 2021,
+- [MultiCoNER Competition](https://multiconer.github.io/). *SemEval 2022 Task 11.*
 
-- [Symlink- Linking Mathematical Symbols to their Descriptions](https://arxiv.org/abs/2202.09695). Lai et al., *arXiv*, 2022.
+- [PyTorch Tutorial - Named Entity Recognition Tagging](https://cs230.stanford.edu/blog/namedentity/). *Stanford NER Blog.*
 
-- [PyTorch Tutorial - Named Entity Recognition Tagging](https://cs230.stanford.edu/blog/namedentity/). *Stanford Blog.*
+- [Keras Tutorial - Named Entity Recognition using Transformers](https://keras.io/examples/nlp/ner_transformers/). *Keras NER Tutorial.*
 
-- [Keras Tutorial - Named Entity Recognition using Transformers](https://keras.io/examples/nlp/ner_transformers/). *Keras Tutorial.*
-
-- [Tutorial - How to Fine-Tune BERT for Named Entity Recognition (NER)](https://skimai.com/how-to-fine-tune-bert-for-named-entity-recognition-ner/)
+- [Tutorial - How to Fine-Tune BERT for Named Entity Recognition (NER)](https://skimai.com/how-to-fine-tune-bert-for-named-entity-recognition-ner/).
 
 ## Sub-task 2 - generating the precise meaning representation
 
