@@ -21,17 +21,17 @@ After your registration, within two work days (PST), you will receive an email w
 
 # 3a. Subtask-1 (NER) Baseline Tutorial
 
-This pretrained baseline transformer model is adapted from a popular NER competition [(MultiCoNER)](https://multiconer.github.io/) that leverages XLM-RoBERTa-base model which is a multilingual version of RoBERTA.
+This pretrained baseline transformer model is adapted from a [popular NER competition](https://multiconer.github.io/) that leverages XLM-RoBERTa-base model which is a multilingual version of RoBERTA.
 
 The model was evaluated on the reserved three new domains (production, science, and transportation) which are not represented in the released train or dev dataset (see rows 1-3 below). It was then also evaluated on 50 reserved samples from the same domain as those released to the participants ("Original Domains" below). Finally, the model was evaluated on the entire test set made up of all reserved sampled described above ("Entire Test Set" below). The leaderboard and final standings will only consider the micro-averaged F1 score (right-most column) of the submitted models on the entire test set. This model achieved the following F1 scores:
 
-|                                | CONST<br/>DIR | LIMIT | OBJ<br/>DIR | OBJ<br/>NAME | PARAM | VAR | MICRO<br/>AVG |
-| ------------------------------ | ------------- | ----- | ----------- | ------------ | ----- | --- | ------------- |
-| **Production<br>(n=49)**       |               |       |             |              |       |     |               |
-| **Science<br>(n=50)**          |               |       |             |              |       |     |               |
-| **Transportation<br>(n=50)**   |               |       |             |              |       |     |               |
-| **Original Domains<br>(n=50)** |               |       |             |              |       |     |               |
-| **Entire Test Set<br>(n=199)** |               |       |             |              |       |     | \*            |
+|                          | CONST<br/>DIR | LIMIT | OBJ<br/>DIR | OBJ<br/>NAME | PARAM | VAR | MICRO<br/>AVG |
+| ------------------------ | ------------- | ----- | ----------- | ------------ | ----- | --- | ------------- |
+| **Production<br>**       |               |       |             |              |       |     |               |
+| **Science<br>**          |               |       |             |              |       |     |               |
+| **Transportation<br>**   |               |       |             |              |       |     |               |
+| **Original Domains<br>** |               |       |             |              |       |     |               |
+| **Entire Test Set<br>**  |               |       |             |              |       |     | \*            |
 
 *\* Value that will be reported on the leaderboards page and used for the final evaluation when determining the winners.*
 
@@ -74,7 +74,9 @@ Execute the following commands to train, fine-tune, and evaluate the model on th
 # 3b. Subtask-2 (Generation) Baseline Tutorial
 
 In the starter kit, you will find the files required to train a baseline model using BART.
+
 ## Environment Setup
+
 We have provided a Conda environment file `environment.yml`. To install:
 
 ```
@@ -83,11 +85,13 @@ conda activate myenv
 ```
 
 Verify that it was installed:
+
 ```
 conda env list
 ```
 
 ## Training
+
 The subfolder `./configs` should contain the configuration file for setting up the model configuration and the training hyperparameters. The configuration file `baseline.json` corresponds to the baseline model for subtask 2. To run the training with our configuration:
 
 ```
@@ -103,11 +107,13 @@ The important parameters here are `use_copy`, `per_declaration`,  and `use_promp
 Note that beam search is available as an alternative to greedy search in decoding; however, we found that greedy search worked better.
 
 ## Testing
+
 To evaluate the model:
+
 ```
 python test.py --gpu <gpu id> --checkpoint <checkpoint.mdl> --test-file <test.jsonl>
 ```
-More details about scoring can be found in the `notebooks` folder [here](/notebooks/demo.ipynb). For reference, our baseline model achieves a per-declaration accuracy of `Acc = 0.60` on the test set. Note however that the test set is held out and will not be shared to participants.
 
+More details about scoring can be found in the `notebooks` folder [here](/notebooks/demo.ipynb). For reference, our baseline model achieves a per-declaration accuracy of `Acc = 0.60` on the test set. Note however that the test set is held out and will not be shared to participants.
 
 For more details, see the README for [subtask-2](https://github.com/nl4opt/nl4opt-subtask2-baseline) for a tutorial on training a baseline BART model.
