@@ -28,15 +28,15 @@ After your registration, within two work days (PST), you will receive an email w
 
 This pretrained baseline transformer model is adapted from a [popular NER competition](https://multiconer.github.io/) that leverages XLM-RoBERTa-base model which is a multilingual version of RoBERTA.
 
-The model was evaluated on the reserved three new domains (production, science, and transportation) which are not represented in the released train or dev dataset (see rows 1-3 below). It was then also evaluated on 50 reserved samples from the same domain as those released to the participants ("Original Domains" below). Finally, the model was evaluated on the entire test set made up of all reserved sampled described above ("Entire Test Set" below). The leaderboard and final standings will only consider the micro-averaged F1 score (right-most column) of the submitted models on the entire test set. This model achieved the following F1 scores:
+The model was evaluated on the reserved three new domains (production, science, and transportation) which are not represented in the released train or dev dataset (see rows 1-3 below). It was then also evaluated on reserved samples from the same domain as those released to the participants ("Original Domains" below). Finally, the model was evaluated on the entire test set made up of all reserved sampled described above ("Entire Test Set" below). The leaderboard and final standings will only consider the micro-averaged F1 score (right-most column) of the submitted models on the entire test set. The baseline model achieved **micro-averaged F1 score of 0.843**. This model achieved the following F1 scores:
 
-|                          | CONST<br/>DIR | LIMIT | OBJ<br/>DIR | OBJ<br/>NAME | PARAM | VAR | MICRO<br/>AVG |
-| ------------------------ | ------------- | ----- | ----------- | ------------ | ----- | --- | ------------- |
-| **Production<br>**       |               |       |             |              |       |     |               |
-| **Science<br>**          |               |       |             |              |       |     |               |
-| **Transportation<br>**   |               |       |             |              |       |     |               |
-| **Original Domains<br>** |               |       |             |              |       |     |               |
-| **Entire Test Set<br>**  |               |       |             |              |       |     | \*            |
+|                          | CONST<br/>DIR | LIMIT | OBJ<br/>DIR | OBJ<br/>NAME | PARAM | VAR   | MICRO<br/>AVG |
+| ------------------------ | ------------- | ----- | ----------- | ------------ | ----- | ----- | ------------- |
+| **Production<br>**       | 0.889         | 0.921 | 0.733       | 0.016        | 0.928 | 0.828 | 0.823         |
+| **Science<br>**          | 0.902         | 0.960 | 0.857       | 0.023        | 0.880 | 0.898 | 0.858         |
+| **Transportation<br>**   | 0.832         | 0.908 | 0.611       | 0.080        | 0.904 | 0.825 | 0.788         |
+| **Original Domains<br>** | 0.867         | 0.940 | 1.000       | 0.867        | 0.952 | 0.872 | 0.903         |
+| **Entire Test Set**<br>  | 0.868         | 0.931 | 0.729       | 0.340        | 0.917 | 0.855 | 0.843*        |
 
 *\* Value that will be reported on the leaderboards page and used for the final evaluation when determining the winners.*
 
