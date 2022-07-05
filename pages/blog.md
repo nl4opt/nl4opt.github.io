@@ -37,7 +37,7 @@ The competition consists of two tasks: an NER and a generation task.
 
 **The NL4Opt dataset**
 
-A novel NLP dataset has been curated by operations research experts. This dataset consists of over a thousand linear programming word problems (LPWP) similar to the waste eduction problem described above and has been labelled for the challenge’s two tasks. Teams of individuals or a group of participants may submit their solutions to either or both tasks. The dataset challenges the participants to build models that can generalize not only to new LPWP problems but also to new problem domains. Baseline approaches and [tutorials](https://nl4opt.github.io/tutorial/) are provided in the starter kits.
+A novel NLP dataset has been curated by operations research experts. This dataset consists of over a thousand linear programming word problems (LPWP) similar to the waste eduction problem described above and has been labelled for the challenge’s two tasks. Teams of individuals or a group of participants may submit their solutions to either or both tasks. The dataset challenges the participants to build models that can generalize not only to new LPWP problems but also to new problem domains. Baseline approaches and tutorials are provided in the [starter kits](https://nl4opt.github.io/tutorial/).
 
 **Incentives**
 
@@ -45,7 +45,7 @@ A total of $22,000 USD will be awarded across the two tasks. A workshop will als
 
 **Logistics of the competition**
 
-The competition is tentatively from July 1st to October 15th with the submission portal opening on July 15th. We look forward to your participation – we encourage you to [register]([Participate | NL4Opt](https://nl4opt.github.io/participate/)) and our organizers will be in touch with you shortly.
+The competition is tentatively from July 1st to October 15th with the submission portal opening on July 15th. We look forward to your participation – we encourage you to [register](https://nl4opt.github.io/participate/) and our organizers will be in touch with you shortly.
 
 For more information regarding the competition details, schedule, eligibility, rules, FAQs, and to get started, visit our competition website linked below! Follow our [social media](https://twitter.com/NL4Opt) and [GitHub discussion forum]( [Discussions · nl4opt/nl4opt-competition · GitHub](https://github.com/nl4opt/nl4opt-competition/discussions)) to keep updated. If you have any questions, please take a look at the FAQ section of our website. For any remaining questions, free to start the discussion on the [GitHub forum]([Discussions · nl4opt/nl4opt-competition · GitHub](https://github.com/nl4opt/nl4opt-competition/discussions)).
 
@@ -57,7 +57,7 @@ The NL4Opt challenge would not be possible without the teams from the University
 
 **References**
 
-1. Beairsto, J., Tian, Y., Zheng, L., Zhao, Q., Hong, J.: Identifying locations for new bike-sharing stations in glasgow: an analysis of spatial equity and demand factors. Annals of GIS 0(0), 1–16 (2021), [Full article: Identifying locations for new bike-sharing stations in Glasgow: an analysis of spatial equity and demand factors](https://doi.org/10.1080/19475683.2021.1936172)
+1. Beairsto, J., Tian, Y., Zheng, L., Zhao, Q., Hong, J.: Identifying locations for new bike-sharing stations in glasgow: an analysis of spatial equity and demand factors. Annals of GIS 0(0), 1–16 (2021), https://doi.org/10.1080/19475683.2021.1936172
 
 2. Ma, Y., Qin, X., Xu, J., Zou, X.: Research on pricing method of public bicycle service: A case study in guangzhou. In: IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI). pp. 156–161 (2016)
 

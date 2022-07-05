@@ -23,12 +23,20 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 
 # News
 
-* The data and starter-kits have been released!
-  * [Data repository](https://github.com/nl4opt/nl4opt-competition)
-  * [Sub-task 1 Repository](https://github.com/nl4opt/nl4opt-subtask1-baseline)
-  * [Sub-task 2 Repository](https://github.com/nl4opt/nl4opt-subtask2-baseline)
-* The organizers are planning to host a Q&A session the week after the submission portal opens (July 18th to 22nd). If you are running into issues with your submission or have any other questions, please feel free to join us. More details will be shared closer to the date! 
-* Keep an eye out on your email for the instructions for submission in the upcoming week! The submission portal opens on July 15th. 
+### 2022-07-05 Announcements
+
+1. The data and starter-kits have been released!
+* [Data repository](https://github.com/nl4opt/nl4opt-competition)
+* [Sub-task 1 repository](https://github.com/nl4opt/nl4opt-subtask1-baseline)
+* [Sub-task 2 repository](https://github.com/nl4opt/nl4opt-subtask2-baseline)
+
+
+
+2. The organizers are planning to host a Q&A session the week after the submission portal opens (July 18th to 22nd). If you are running into issues with your submission or have any other questions, please feel free to join us. More details will be shared closer to the date! 
+
+
+
+3. Keep an eye out on your email for the instructions for submission in the upcoming week! The submission portal opens on July 15th. 
 
 # Important Dates
 
@@ -87,11 +95,21 @@ The two inter-related tasks are to find an intelligent solution to:
 
 **Relevant resources:**
 
-- [NLC2CMD Competition: Translating Natural Language to Bash Commands](https://arxiv.org/abs/2103.02523). Agarwal et al., *arXiv*, 2021,
+- [Natural Language Processing with Transformers: Building Language Applications with Hugging Face.](https://www.amazon.ca/Natural-Language-Processing-Transformers-Applications/dp/1098103246) Tunstall et al., *(O’Reilly Media, 2022)*
 
-- [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://aclanthology.org/2020.findings-emnlp.139). Feng et al., *Findings of the Association for Computational Linguistics: EMNLP 2020*, 2020,
+- [Using different decoding methods for language generation with Transformers.](https://colab.research.google.com/github/huggingface/blog/blob/main/notebooks/02_how_to_generate.ipynb) Alexander et al., *(Colab notebook).*
 
-- [Thesis - Learning meaning representations for text generation with deep generative models](https://www.repository.cam.ac.uk/handle/1810/305297). Kris Cao, *University of Cambridge Dissertation*, 2019.
+- [Constrained Language Models Yield Few-Shot Semantic Parsers.](https://aclanthology.org/2021.emnlp-main.608.pdf) Shin et al., *ACL Anthology.*
+
+- [The Power of Prompt Tuning for Low-Resource Semantic Parsing.](https://arxiv.org/abs/2110.08525) Schucher et al., *arXiv.*
+
+- [Text-to-Table: A New Way of Information Extraction.](https://aclanthology.org/2022.acl-long.180.pdf) Wu et al., *ACL Anthology.*
+
+- [CodeBERT: A Pre-Trained Model for Programming and Natural Languages.](https://aclanthology.org/2020.findings-emnlp.139/) Feng et al., *Findings of the Association for Computational Linguistics: EMNLP 2020.*
+
+- [Few-Shot Semantic Parsing with Language Models Trained On Code.](https://arxiv.org/abs/2112.08696) Shin et al., *arXiv.*
+
+- [PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models.](https://aclanthology.org/2021.emnlp-main.779/) Scholak et al., *ACL Anthology.*
 
 **For more information** regarding the type of data in each sub-task and the resources provided to help you get started, visit the [Getting Started](https://nl4opt.github.io/getttingstarted/) page of our website.
 
