@@ -23,7 +23,12 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 
 # News
 
-* More details about the NeurIPS 2022 competition (e.g. data, starter kit, tutorial, notebooks, etc...) will be provided soon. Stay tuned!
+* The data and starter-kits have been released!
+  * [Data repository](https://github.com/nl4opt/nl4opt-competition)
+  * [Sub-task 1 Repository](https://github.com/nl4opt/nl4opt-subtask1-baseline)
+  * [Sub-task 2 Repository](https://github.com/nl4opt/nl4opt-subtask2-baseline)
+* The organizers are planning to host a Q&A session the week after the submission portal opens (July 18th to 22nd). If you are running into issues with your submission or have any other questions, please feel free to join us. More details will be shared closer to the date! 
+* Keep an eye out on your email for the instructions for submission in the upcoming week! The submission portal opens July 15th. 
 
 # Important Dates
 

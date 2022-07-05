@@ -71,3 +71,7 @@ We will provide a total monetary prize of \$22000. The 5 best winning submission
 * **3rd place**: \$1000
 
 * **4th and 5th places**: \$500
+
+**Q**: *Can I add team members during the competition?*
+
+Adding team members during the competition is possible. To do so, you need to contact the organizers at this email address nl4opt@gmail 

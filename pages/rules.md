@@ -10,7 +10,7 @@ permalink: /rules/
 
 - A team can be either an individual or a group of individuals working together during the entire duration of the competition.
 
-- Each team may submit up to 5 times per day.
+- Each team may have up to 3 folders in their submission cloud directory at a time. They will be removed upon evaluation, and more submissions may be uploaded again.
 
 - To receive the awards from this competition, winners must attend the NeurIPS workshop.
 
