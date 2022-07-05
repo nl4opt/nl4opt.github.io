@@ -41,9 +41,9 @@ Run the following command to clone the repository containing the scripts to crea
 
 Create a conda environment for the NER task and install the required packages: 
 
-`conda create --name nl4opt-ner python=3.9.12` 
+`conda create --name nl4opt-ner python=3.9.12`
 
-`conda activate nl4opt-ner` 
+`conda activate nl4opt-ner`
 
 `cd nl4opt-subtask1-baseline/ner_task/baseline` 
 
