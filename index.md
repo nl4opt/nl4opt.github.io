@@ -29,12 +29,7 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 * [Data repository](https://github.com/nl4opt/nl4opt-competition)
 * [Sub-task 1 repository](https://github.com/nl4opt/nl4opt-subtask1-baseline)
 * [Sub-task 2 repository](https://github.com/nl4opt/nl4opt-subtask2-baseline)
-
-
-
 2. The organizers are planning to host a Q&A session the week after the submission portal opens (July 18th to 22nd). If you are running into issues with your submission or have any other questions, please feel free to join us. More details will be shared closer to the date! 
-
-
 
 3. Keep an eye out on your email for the instructions for submission in the upcoming week! The submission portal opens on July 15th. 
 
@@ -81,11 +76,13 @@ The two inter-related tasks are to find an intelligent solution to:
 
 - [MultiCoNER Competition](https://multiconer.github.io/). *SemEval 2022 Task 11.*
 
-- [PyTorch Tutorial - Named Entity Recognition Tagging](https://cs230.stanford.edu/blog/namedentity/). *Stanford NER Blog.*
+- [Hugging Face Tutorial.](https://huggingface.co/course/chapter0/1?fw=pt) *Hugging Face.*
 
-- [Keras Tutorial - Named Entity Recognition using Transformers](https://keras.io/examples/nlp/ner_transformers/). *Keras NER Tutorial.*
+- [PyTorch Tutorial - Named Entity Recognition Tagging](https://cs230.stanford.edu/blog/namedentity/). *Stanford Blog.*
 
-- [Tutorial - How to Fine-Tune BERT for Named Entity Recognition (NER)](https://skimai.com/how-to-fine-tune-bert-for-named-entity-recognition-ner/).
+- [Keras Tutorial - Named Entity Recognition using Transformers](https://keras.io/examples/nlp/ner_transformers/). *Keras.*
+
+- [Tutorial - How to Fine-Tune BERT for Named Entity Recognition (NER)](https://skimai.com/how-to-fine-tune-bert-for-named-entity-recognition-ner/). *Skimai.*
 
 ## Sub-task 2 - generating the precise meaning representation
 
@@ -96,6 +93,8 @@ The two inter-related tasks are to find an intelligent solution to:
 **Relevant resources:**
 
 - [Natural Language Processing with Transformers: Building Language Applications with Hugging Face.](https://www.amazon.ca/Natural-Language-Processing-Transformers-Applications/dp/1098103246) Tunstall et al., *(O’Reilly Media, 2022)*
+
+- [Hugging Face Tutorial.](https://huggingface.co/course/chapter0/1?fw=pt) *Hugging Face.*
 
 - [Using different decoding methods for language generation with Transformers.](https://colab.research.google.com/github/huggingface/blog/blob/main/notebooks/02_how_to_generate.ipynb) Alexander et al., *(Colab notebook).*
 

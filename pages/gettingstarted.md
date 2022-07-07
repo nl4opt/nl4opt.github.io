@@ -25,10 +25,10 @@ For the second sub-task, the inputs are the problem description, its set of prob
 
 The provided "starter kit" includes baseline models, training/evaluation code, data loaders, and scripts to convert data formats (into a canonical format that is used for the evaluation):
 
-**Sub-task 1:** For the named entity recognition sub-task, the baseline model is a fine-tuned Roberta transformer, which achieved an F1-score of 82.57% on the union of in-domain and out-of-domain test sets. 
+**Sub-task 1:** For the named entity recognition sub-task, the baseline model is a fine-tuned Roberta transformer, which achieved an F1-score of `F1 = 0.839` on the union of in-domain and out-of-domain test sets. 
 
 [Sub-task 1 Repository](https://github.com/nl4opt/nl4opt-subtask1-baseline)
 
-**Sub-task 2:** For the generation sub-task, the baseline model is a BART encoder-decoder that leverages a prompt-guided generation and a copy mechanism to generate a meaning representation of the optimization formulation. For each objective/constraint declaration, a prompt has been created based on the set of problem entities, and the baseline model was trained to complete the prompt and generate the meaning representation. It achieved an accuracy of 38.50% on the combined test set. The meaning representation preserves the semantic and contextual information of the objective and constraint declarations. 
+**Sub-task 2:** For the generation sub-task, the baseline model is a BART encoder-decoder that leverages a prompt-guided generation and a copy mechanism to generate a meaning representation of the optimization formulation. For each objective/constraint declaration, a prompt has been created based on the set of problem entities, and the baseline model was trained to complete the prompt and generate the meaning representation. It achieved an accuracy of `Acc = 0.61` on the combined test set. The meaning representation preserves the semantic and contextual information of the objective and constraint declarations. 
 
 [Sub-task 2 Repository](https://github.com/nl4opt/nl4opt-subtask2-baseline)

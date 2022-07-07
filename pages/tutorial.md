@@ -186,6 +186,6 @@ To evaluate the model:
 python test.py --gpu <gpu id> --checkpoint <checkpoint.mdl> --test-file <test.jsonl>
 ```
 
-More details about scoring can be found in the `notebooks` folder [here](/notebooks/demo.ipynb). For reference, our baseline model achieves a per-declaration accuracy of `Acc = 0.60` on the test set. Note however that the test set is held out and will not be shared to participants.
+More details about scoring can be found in the `notebooks` folder [here](/notebooks/demo.ipynb). For reference, our baseline model achieves a per-declaration accuracy of `Acc = 0.61` on the test set. Note however that the test set is held out and will not be shared to participants.
 
 For more details, see the README for [subtask-2](https://github.com/nl4opt/nl4opt-subtask2-baseline) for a tutorial on training a baseline BART model.
