@@ -27,7 +27,9 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 
 1. The data and starter-kits have been released!
 * [Data repository](https://github.com/nl4opt/nl4opt-competition)
+
 * [Sub-task 1 repository](https://github.com/nl4opt/nl4opt-subtask1-baseline)
+
 * [Sub-task 2 repository](https://github.com/nl4opt/nl4opt-subtask2-baseline)
 2. The organizers are planning to host a Q&A session the week after the submission portal opens (July 18th to 22nd). If you are running into issues with your submission or have any other questions, please feel free to join us. More details will be shared closer to the date! 
 
@@ -41,6 +43,7 @@ The following dates use the [anywhere on earth (AoE)](https://www.timeanddate.co
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
 | **Competition kickoff.** The registration is opened and participants can download the starterkit and the training/validation datasets.   | July 1st, 2022      |
 | **Submission available.** The leaderboard and forum are opened, and the submissions are accepted.                                        | July 15th, 2022     |
+| **Registration deadline.** No new teams are accepted past this date.                                                                     | October 8th, 2022   |
 | **Deadline for submission.**                                                                                                             | October 15th, 2022  |
 | **Winners notification.** Winning teams are notified and instructed to provide information that will be included in the workshop report. | October 31st, 2022  |
 | **Report submission deadline.**                                                                                                          | November 20th, 2022 |
