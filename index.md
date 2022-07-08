@@ -43,7 +43,7 @@ The following dates use the [anywhere on earth (AoE)](https://www.timeanddate.co
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
 | **Competition kickoff.** The registration is opened and participants can download the starterkit and the training/validation datasets.   | July 1st, 2022      |
 | **Submission available.** The leaderboard and forum are opened, and the submissions are accepted.                                        | July 15th, 2022     |
-| **Registration deadline.** No new teams are accepted past this date.                                                                     | October 8th, 2022   |
+| **Deadline for registration**                                                                                                            | October 8th, 2022   |
 | **Deadline for submission.**                                                                                                             | October 15th, 2022  |
 | **Winners notification.** Winning teams are notified and instructed to provide information that will be included in the workshop report. | October 31st, 2022  |
 | **Report submission deadline.**                                                                                                          | November 20th, 2022 |
