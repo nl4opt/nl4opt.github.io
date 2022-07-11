@@ -113,7 +113,7 @@ The two inter-related tasks are to find an intelligent solution to:
 
 - [PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models.](https://aclanthology.org/2021.emnlp-main.779/) Scholak et al., *ACL Anthology.*
 
-**For more information** regarding the type of data in each sub-task and the resources provided to help you get started, visit the [Getting Started](https://nl4opt.github.io/getttingstarted/) page of our website.
+**For more information** regarding the type of data in each sub-task and the resources provided to help you get started, visit the [Getting Started](https://nl4opt.github.io/gettingstarted/) page of our website.
 
 # Metrics
 
