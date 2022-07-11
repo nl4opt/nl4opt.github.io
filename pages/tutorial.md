@@ -9,7 +9,7 @@ permalink: /tutorial/
 
 This tutorial page goes through the process to register and submission. It then gives a tutorial on how to set up the baseline of each subtask.
 
-If you have further questions, we encourage you to refer to the [FAQ page](https://nl4opt.github.io/faq/) and use our [forum](https://github.com/nl4opt/nl4opt/discussions) for discussion.
+If you have further questions, we encourage you to refer to the [FAQ page](https://nl4opt.github.io/faq/) and use our [forum](https://github.com/nl4opt/nl4opt-competition/discussions) for discussion.
 
 # 1. Registration
 
