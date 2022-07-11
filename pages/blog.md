@@ -47,7 +47,7 @@ A total of $22,000 USD will be awarded across the two tasks. A workshop will als
 
 The competition is tentatively from July 1st to October 15th with the submission portal opening on July 15th. We look forward to your participation – we encourage you to [register](https://nl4opt.github.io/participate/) and our organizers will be in touch with you shortly.
 
-For more information regarding the competition details, schedule, eligibility, rules, FAQs, and to get started, visit our competition website linked below! Follow our [social media](https://twitter.com/NL4Opt) and [GitHub discussion forum]( [Discussions · nl4opt/nl4opt-competition · GitHub](https://github.com/nl4opt/nl4opt-competition/discussions)) to keep updated. If you have any questions, please take a look at the FAQ section of our website. For any remaining questions, free to start the discussion on the [GitHub forum]([Discussions · nl4opt/nl4opt-competition · GitHub](https://github.com/nl4opt/nl4opt-competition/discussions)).
+For more information regarding the competition details, schedule, eligibility, rules, FAQs, and to get started, visit our competition website linked below! Follow our [social media](https://twitter.com/NL4Opt) and [GitHub discussion forum](https://github.com/nl4opt/nl4opt-competition/discussions) to keep updated. If you have any questions, please take a look at the FAQ section of our website. For any remaining questions, free to start the discussion on the [GitHub forum](https://github.com/nl4opt/nl4opt-competition/discussions).
 
 Website: [https://nl4opt.github.io/](https://nl4opt.github.io/)
 
