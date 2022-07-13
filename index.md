@@ -26,12 +26,12 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 ### 2022-07-05 Announcements
 
 1. The data and starter-kits have been released!
-* [Data repository](https://github.com/nl4opt/nl4opt-competition)
+    * [Data repository](https://github.com/nl4opt/nl4opt-competition)
 
-* [Sub-task 1 repository](https://github.com/nl4opt/nl4opt-subtask1-baseline)
+    * [Sub-task 1 repository](https://github.com/nl4opt/nl4opt-subtask1-baseline)
 
-* [Sub-task 2 repository](https://github.com/nl4opt/nl4opt-subtask2-baseline)
-2. The organizers are planning to host a Q&A session the week after the submission portal opens (July 18th to 22nd). If you are running into issues with your submission or have any other questions, please feel free to join us. More details will be shared closer to the date! 
+    * [Sub-task 2 repository](https://github.com/nl4opt/nl4opt-subtask2-baseline)
+2. The organizers are planning to host a Q&A session by the end of the month. If you are running into issues with your submission or have any other questions, please feel free to join us. More details will be shared closer to the date! 
 
 3. Keep an eye out on your email for the instructions for submission in the upcoming week! The submission portal opens on July 15th. 
 
