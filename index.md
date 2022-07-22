@@ -23,6 +23,15 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 
 # News
 
+### 2022-07-22 Announcements
+
+1. Please check if your team has received an email with link to your Google Drive folder used for evaluating your submissions
+    * More instructions for the evaluations on the test set will be available in the upcoming week
+
+    * If you received more than one email with different Google Drive links, please check and use the one that is accessible to you.
+
+2. __Revisions for Sub-task 1 dataset__: As described in the [Data repository](https://github.com/nl4opt/nl4opt-competition), we have removed white space tokens from the NER dataset. The held-out test set has also been updated to the same format.
+
 ### 2022-07-05 Announcements
 
 1. The data and starter-kits have been released!
