@@ -24,7 +24,18 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 # News
 
 ### 2022-07-26 Announcements
-We will begin evaluating the submissions for both tasks after July 26 12pm PST, GPU instance on Lambda Labs will be used to test your submissions, the instance has 1x A6000 (48GB) with 14 vCPUs, and 100 GiB RAM. Please ensure your script finish execution in a reasonable amount of time (<10 min), and refrain from downloading unnecessarily large files to the local file system.
+1. We will begin evaluating the submissions for both tasks after July 26 12pm PST
+    * GPU instance on Lambda Labs will be used to test your submissions, the instance has 1x A6000 (48GB) with 14 vCPUs, and 100 GiB RAM (You can test your script by creating an instance and running it on dev data). 
+
+    * Please ensure your script finish execution in a reasonable amount of time (<10 min), and refrain from downloading unnecessarily large files to the local file system.
+
+    * We will upload the shell output `evaluation.out` to your Google Drive directory, so you can debug your code before the next submission.
+
+2. We will be hosting two Zoom Q&A Sessions
+
+    * The first session will be on August 9th 1-2pm PST, the second session will be on August 9th 10-11pm PST
+    
+    * Please check your email for links to both Zoom sessions
 
 ### 2022-07-22 Announcements
 
