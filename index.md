@@ -23,6 +23,9 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 
 # News
 
+### 2022-07-26 Announcements
+We will begin evaluating the submissions for both tasks after July 26 12pm PST, GPU instance on Lambda Labs will be used to test your submissions, the instance has 1x A6000 (48GB) with 14 vCPUs, and 100 GiB RAM. Please ensure your script finish execution in a reasonable amount of time (<10 min), and refrain from downloading unnecessarily large files to the local file system.
+
 ### 2022-07-22 Announcements
 
 1. Please check if your team has received an email with link to your Google Drive folder used for evaluating your submissions
