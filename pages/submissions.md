@@ -9,31 +9,70 @@ permalink: /submissions/
 # Submission
 
 
+## Server Specs
+We will use a GPU instance on Lambda Labs to test your submissions, the instance has 1x A6000 (48GB) with 14 vCPUs, and 100 GiB RAM. Please feel free to test your code on the their server to ensure your submissions are successful.
 
-The leaderboard will be updated periodically and each participants submission will be evaluated by our organizers every Monday and Friday on the [anywhere on earth (AoE)](https://www.timeanddate.com/time/zones/aoe) time zone. Please refer to the template in the starter kit and tutorial for a step-by-step guide for the submission. To ensure that your latest submission is properly evaluated, we recommend you to update your submission to the cloud folder (provided to you in an email from our organizers) on the Sunday or Thursday. 
 
-This leaderboard was last updated on: July 5th, 2022
+## Instructions
 
-## Sub-task 1
+Please upload your submission to your Google Drive folder using the link you received in the registration email. In your Google Drive folder, you need to create folders with name `subtask1` and/or `subtask2` depending on which task you want to submit for. In each subtask folder, you may have up to 3 sub-folders (one for each submission). In each submission folder, you must have a script with name `evaluate.sh` containing all necessary command, including setting up the environments, installing necessary dependencies, and evaluting your models on the test data. We recommend using [conda]() or [docker]() to setting up the environments (they will be pre-installed on the instance).
 
-| Rank | Participant Name            | Affiliation(s) | F1 Score |
-|:----:|:---------------------------:|:--------------:|:--------:|
-| 1    | Baseline (XLM-RoBERTa-base) | Nl4Opt         | 0.839*   |
-|      |                             |                |          |
-|      |                             |                |          |
+The test data files will be copied into your submission folder with filename `test.txt` for subtask1 and `test.jsonl` for subtask2 with the same format as the training and development set. Please ensure you output the the evaluation results (micro f1/accuracy) into a text file named `results.out` containing a single line with the corresponding score (e.g. 0.60), we will use this to update the [Leaderboard](https://nl4opt.github.io/leaderboard/). After evaluation, you will see a output file with name `evaluation.out` containing the shell output for `evaluate.sh` in each submission folder. See below for an example of the structure of your submission folder after evaluation, please ensure that all submission files is under a sub-folder even if you only have one submission. 
 
-*\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
+```
+Team Name
+│
+└───subtask1
+│   │
+│   └───task1_submission1
+│   │    │   test.txt
+│   │    │   evaluate.sh
+│   │    │   results.out
+│   │    │   evaluation.out
+│   │    │   ...
+│   │
+│   └───task1_submission2
+│   │    │   test.txt
+│   │    │   evaluate.sh
+│   │    │   results.out
+│   │    │   evaluation.out
+│   │    │   ...
+│   │
+│   └───task1_submission3
+│   │    │   test.txt
+│        │   evaluate.sh
+│        │   results.out
+│        │   evaluation.out
+│        │   ...
+│   
+└───subtask2
+    │
+    └───task2_submission1
+    │    │   test.jsonl
+    │    │   evaluate.sh
+    │    │   results.out
+    │    │   evaluation.out
+    │    │   ...
+    │
+    └───task2_submission2
+    │    │   test.jsonl
+    │    │   evaluate.sh
+    │    │   results.out
+    │    │   evaluation.out
+    │    │   ...
+    │
+    └───task2_submission3
+         │   test.jsonl
+         │   evaluate.sh
+         │   results.out
+         │   evaluation.out
+         │   ...
+```
 
-* For this challenge, the **micro-averaged F1 score** is the evaluation metric. This measure is described in detail in the metrics section of our [homepage](https://nl4opt.github.io/). 
+Lastly, please ensure your script finish execution in a reasonable amount of time (<10 min), and refrain from downloading unnecessarily large files to the local file system.
 
-## Sub-task 2
+## Tips
+If you don't want to upload your code to Google Drive, you can download your submission files in your script `evaluate.sh` to the local directory (e.g. using wget). We will be erasing all data on the instance after each evaluation session.
 
-| Rank | Participant Name | Affiliation(s) | Accuracy |
-|:----:|:----------------:|:--------------:|:--------:|
-| 1    | BART             | NL4Opt         | 0.61*    |
-|      |                  |                |          |
-|      |                  |                |          |
 
-*\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
 
-* For this challenge, the **declaration-level mapping accuracy** is the evaluation metric. This measure is described in detail in the metrics section of our [homepage](https://nl4opt.github.io/).
