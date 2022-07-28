@@ -48,6 +48,7 @@ header_pages:
   - pages/blog.md
   - pages/gettingstarted.md
   - pages/tutorial.md
+  - pages/submissions.md
   - pages/leaderboard.md
   - pages/contact.md
 
