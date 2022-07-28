@@ -6,10 +6,10 @@ permalink: /submissions/
 
 ---
 
-# Submission
+# How to Submit
 
 
-## Server Specs
+## GPU Instance
 We will use a GPU instance on Lambda Labs to test your submissions, the instance has 1x A6000 (48GB) with 14 vCPUs, and 100 GiB RAM. Please feel free to test your code on the their server to ensure your submissions are successful.
 
 
