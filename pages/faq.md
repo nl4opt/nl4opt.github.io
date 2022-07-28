@@ -32,7 +32,7 @@ Yes, we welcome individuals as well as teams to participate.
 
 **Q**: *What do I need to make a submission?*
 
-* Make sure you include the following in your submission:
+<!-- * Make sure you include the following in your submission:
   
   * Same ID code given after registration to identify their multiple submissions.
   
@@ -42,7 +42,8 @@ Yes, we welcome individuals as well as teams to participate.
   
   * If the output of your model format is different from that of the baseline model provided im the starter kit, please provide a conversion script. Please refer to the tutorial for more details.
   
-  * For the second sub-task. if you used a different meaning representation. please provide a script to convert their model prediction to the canonical format used for evaluation. Refer to the example/default conversion script in the starter kit.
+  * For the second sub-task. if you used a different meaning representation. please provide a script to convert their model prediction to the canonical format used for evaluation. Refer to the example/default conversion script in the starter kit. -->
+  * Please carefully follow the instructions on [Submissions](https://nl4opt.github.io/submissions/). 
   
   * Winning submissions will be required to include a brief description of your method.
 
