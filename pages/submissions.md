@@ -69,7 +69,7 @@ Team Name
          │   ...
 ```
 
-Lastly, please ensure your script finish execution in a reasonable amount of time (<10 min), and refrain from downloading unnecessarily large files to the local file system.
+Please ensure that all file and folder names are correct, you can refer to our [evaluation script](https://github.com/nl4opt/nl4opt-competition/blob/main/evaluate_submission.sh) for details. Lastly, please ensure your script finish execution in a reasonable amount of time (<10 min), and refrain from downloading unnecessarily large files to the local file system.
 
 ## Tips
 If you don't want to upload your code to Google Drive, you can download your submission files in your script `evaluate.sh` to the local directory (e.g. using wget). We will be erasing all data on the instance after each evaluation session.
