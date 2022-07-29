@@ -132,9 +132,9 @@ The model was evaluated on researved samples from the same domain as those relea
 
 |                         | CONST  <br>DIR | LIMIT | OBJ  <br>DIR | OBJ  <br>NAME | PARAM | VAR   | MICRO  <br>AVG |
 | ----------------------- | -------------- | ----- | ------------ | ------------- | ----- | ----- | -------------- |
-| **Source Domain<br>**   | 0.816          | 0.943 | 0.800        | 0.884         | 0.949 | 0.895 | 0.905          |
-| **Target Domain<br>**   | 0.852          | 0.917 | 0.877        | 0.077         | 0.906 | 0.840 | 0.815          |
-| **Entire Test Set<br>** | 0.842          | 0.925 | 0.866        | 0.351         | 0.918 | 0.854 | 0.839*         |
+| **Source Domain<br>**   | 0.874          | 0.940 | 1.000        | 0.882         | 0.952 | 0.899 | 0.915          |
+| **Target Domain<br>**   | 0.864          | 0.925 | 0.877        | 0.100         | 0.910 | 0.834 | 0.814          |
+| **Entire Test Set<br>** | 0.905          | 0.980 | 0.947        | 0.375         | 0.975 | 0.902 | 0.889*         |
 
 \* Value that will be reported on the leaderboards page and used for the final evaluation when determining the winners.
 
