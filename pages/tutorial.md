@@ -128,7 +128,7 @@ There are many approaches to training a neural network. However, the baseline fr
 
 ## Results
 
-The model was evaluated on researved samples from the same domain as those released as part of the "training split" ("Source Domain"). The model was then evaluated on the reserved three new domains containing transportation, production, and science problems ("Target Domain"). Finally, the model was evaluated on the entire test set made up of all reserved sampled described above ("Entire Test Set"). The leaderboard and final standings will only consider the micro-averaged F1 score (right-most column) of the submitted models on the entire test set. The baseline model achieved **micro-averaged F1 score of 0.839**. This model achieved the following F1 scores:
+The model was evaluated on researved samples from the same domain as those released as part of the "training split" ("Source Domain"). The model was then evaluated on the reserved three new domains containing transportation, production, and science problems ("Target Domain"). Finally, the model was evaluated on the entire test set made up of all reserved sampled described above ("Entire Test Set"). The leaderboard and final standings will only consider the micro-averaged F1 score (right-most column) of the submitted models on the entire test set. The baseline model achieved **micro-averaged F1 score of 0.889**. This model achieved the following F1 scores:
 
 |                         | CONST  <br>DIR | LIMIT | OBJ  <br>DIR | OBJ  <br>NAME | PARAM | VAR   | MICRO  <br>AVG |
 | ----------------------- | -------------- | ----- | ------------ | ------------- | ----- | ----- | -------------- |
