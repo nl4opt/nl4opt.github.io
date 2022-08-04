@@ -61,3 +61,7 @@ permalink: /rules/
 - Participants may not expand the dataset manually since the focus of this competition is to work with a smaller dataset. However, intelligent data augmentation or open-sourced datasets to pre-train the transformers or language models are permitted.
 
 - The organizers will inspect the data reader/loader provided by the participants.
+
+- You may **not** use the dev set for training as part of the goal of this competition is to evaluate how well each approach generalizes to an unseen domain.
+  
+  - The winning submissions will be inspected and tested for reproducibility to ensure that the dev set was not utilized for training purposes
