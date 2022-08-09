@@ -128,13 +128,15 @@ There are many approaches to training a neural network. However, the baseline fr
 
 ## Results
 
+*When evaluating the baseline on the dev set, you should get a micro-averaged F1 score of 0.886.*
+
 The model was evaluated on researved samples from the same domain as those released as part of the "training split" ("Source Domain"). The model was then evaluated on the reserved three new domains containing transportation, production, and science problems ("Target Domain"). Finally, the model was evaluated on the entire test set made up of all reserved sampled described above ("Entire Test Set"). The leaderboard and final standings will only consider the micro-averaged F1 score (right-most column) of the submitted models on the entire test set. The baseline model achieved **micro-averaged F1 score of 0.889**. This model achieved the following F1 scores:
 
 |                         | CONST  <br>DIR | LIMIT | OBJ  <br>DIR | OBJ  <br>NAME | PARAM | VAR   | MICRO  <br>AVG |
 | ----------------------- | -------------- | ----- | ------------ | ------------- | ----- | ----- | -------------- |
-| **Source Domain<br>**   | 0.874          | 0.940 | 1.000        | 0.882         | 0.952 | 0.899 | 0.915          |
-| **Target Domain<br>**   | 0.864          | 0.925 | 0.877        | 0.100         | 0.910 | 0.834 | 0.814          |
-| **Entire Test Set<br>** | 0.905          | 0.980 | 0.947        | 0.375         | 0.975 | 0.902 | 0.889*         |
+| **Source Domain<br>**   | 0.858          | 0.867 | 1.000        | 0.903         | 0.949 | 0.903 | 0.906          |
+| **Target Domain<br>**   | 0.828          | 0.922 | 0.877        | 0.045         | 0.906 | 0.850 | 0.816          |
+| **Entire Test Set<br>** | 0.880          | 0.950 | 0.947        | 0.362         | 0.972 | 0.915 | 0.889*         |
 
 \* Value that will be reported on the leaderboards page and used for the final evaluation when determining the winners.
 
