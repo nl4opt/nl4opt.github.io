@@ -23,6 +23,10 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 
 # News
 
+### 2022-08-09 Announcements
+1. We have created an example submission folder on Google Drive ([Link](https://drive.google.com/drive/folders/18Rji40KTmKBMmkg_SbuUjsYciIIlrqEW?usp=sharing)) using the baseline models for both subtasks.
+2. The slides from the Zoom Q\&A Sessions are available in the Competition Github Repo ([Link](https://github.com/nl4opt/nl4opt-competition/blob/main/NL4OPT_Q_A_Sessions.pdf))
+
 ### 2022-07-26 Announcements
 1. We will begin evaluating the submissions for both tasks after July 26 12pm PST
     * GPU instance on Lambda Labs will be used to test your submissions, the instance has 1x A6000 (48GB) with 14 vCPUs, and 100 GiB RAM (You can test your script by creating an instance and running it on dev data). 
