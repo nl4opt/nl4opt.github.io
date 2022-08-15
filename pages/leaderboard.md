@@ -16,9 +16,9 @@ This leaderboard was last updated on: July 28th, 2022
 
 | Rank | Participant Name            | Affiliation(s) | F1 Score |
 |:----:|:---------------------------:|:--------------:|:--------:|
-| 1    | Baseline (XLM-RoBERTa-base) | Nl4Opt         | 0.889*   |
-|      |                             |                |          |
-|      |                             |                |          |
+| 1    | mcmc                        |                | 0.926    |         
+| 2    | Baseline (XLM-RoBERTa-base) | Nl4Opt         | 0.889*   |
+| 3    | VTCC-NLP                    | Viettel        | 0.857    |
 
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
 
