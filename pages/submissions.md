@@ -16,8 +16,12 @@ The submissions will be evaluated on every Wednesday and Friday on the [anywhere
 We will use the [Lambda Labs' GPU Cloud](https://lambdalabs.com/service/gpu-cloud) to test the submissions, the instance we use has 1x RTX6000 (24GB) with 14 vCPUs, and 46 GiB RAM. We encourage the participants to test their scripts on the GPU instance to ensure successful submissions.
 
 
-## Instructions
 
+## Example Submission
+Using the Baselines models for both subtasks, we created an [**Example Submission Folder**](https://drive.google.com/drive/folders/18Rji40KTmKBMmkg_SbuUjsYciIIlrqEW?usp=sharing) on Google Drive. We encourage the participants to take a look before submitting. 
+
+
+## Instructions
 
 Please upload your submission to your Google Drive folder using the link you received in the registration email. In your Google Drive folder, you need to create folders with name `subtask1` and/or `subtask2` depending on which task you want to submit for. In each subtask folder, you may have up to 3 sub-folders (one for each submission). In each submission folder, you must have a script with name `evaluate.sh` containing all necessary command, including setting up the environments, installing necessary dependencies, and evaluting your models on the test data. We recommend using [conda](https://docs.conda.io/en/latest/miniconda.html) or [docker](https://docs.docker.com/get-started/) to setting up the environments (they will be pre-installed on the instance).
 
@@ -76,9 +80,6 @@ Team Name
 ```
 
 Please ensure that all file and folder names are correct, you can refer to our [evaluation script](https://github.com/nl4opt/nl4opt-competition/blob/main/evaluate_submission.sh) for details. Lastly, please ensure your script finish execution in a reasonable amount of time (<10 min), and refrain from downloading unnecessarily large files to the local file system.
-
-## Example Submission
-Using the Baselines models for both subtasks, we created an [**Example Submission Folder**](https://drive.google.com/drive/folders/18Rji40KTmKBMmkg_SbuUjsYciIIlrqEW?usp=sharing) on Google Drive. We encourage the participants to take a look before submitting. 
 
 
 ## Tips
