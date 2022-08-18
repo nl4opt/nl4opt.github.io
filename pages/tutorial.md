@@ -17,7 +17,7 @@ To register for this competition, head to the [Participate page](https://nl4opt.
 
 # 2. Submission
 
-After your registration, within two work days (PST), you will receive an email with instructions for the submission protocol and a link to a cloud storage folder accessible only by the organizers and your team. You will upload your scripts and transformers or language models to this folder and they will be evaluated every Monday and Friday (PST) throughout the competition.
+After your registration, within two work days (PST), you will receive an email with instructions for the submission protocol and a link to a cloud storage folder accessible only by the organizers and your team. You will upload your scripts to this folder and they will be evaluated every Wednesday and Friday throughout the competition, please see our [Submission Page](https://nl4opt.github.io/submissions/) for detailed instructions.
 
 # 3a. Subtask-1 (NER) Baseline Tutorial
 
