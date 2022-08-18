@@ -18,7 +18,11 @@ We will use the [Lambda Labs' GPU Cloud](https://lambdalabs.com/service/gpu-clou
 
 ## Instructions
 
+Using the Baselines models for both subtasks, we created an [**Example Submission Folder**](https://drive.google.com/drive/folders/18Rji40KTmKBMmkg_SbuUjsYciIIlrqEW?usp=sharing) on Google Drive. We encourage the participants to take a look before submitting. 
+
 Please upload your submission to your Google Drive folder using the link you received in the registration email. In your Google Drive folder, you need to create folders with name `subtask1` and/or `subtask2` depending on which task you want to submit for. In each subtask folder, you may have up to 3 sub-folders (one for each submission). In each submission folder, you must have a script with name `evaluate.sh` containing all necessary command, including setting up the environments, installing necessary dependencies, and evaluting your models on the test data. We recommend using [conda](https://docs.conda.io/en/latest/miniconda.html) or [docker](https://docs.docker.com/get-started/) to setting up the environments (they will be pre-installed on the instance).
+
+
 
 The test data files will be copied into your submission folder with filename `test.txt` for subtask1 and `test.jsonl` for subtask2 with the same format as the training and development set. Please ensure you output the the evaluation results (micro f1/accuracy) into a text file named `results.out` containing a single line with the corresponding score (e.g. 0.60), we will use this to update the [Leaderboard](https://nl4opt.github.io/leaderboard/). After evaluation, you will see a output file with name `evaluation.out` containing the shell output for `evaluate.sh` in each submission folder. See below for an example of the structure of your submission folder after evaluation, please ensure that all submission files is under a sub-folder even if you only have one submission. 
 
