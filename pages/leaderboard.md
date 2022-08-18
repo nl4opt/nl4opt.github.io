@@ -16,10 +16,10 @@ This leaderboard was last updated on: August 18th, 2022
 
 ## Sub-task 1
 
-| Rank | Participant Name            | Affiliation(s) | F1 Score |
+| Rank | Team Name                   | Affiliation(s) | F1 Score |
 |:----:|:---------------------------:|:--------------:|:--------:|
 | 1    | mcmc                        |                | 0.929    |
-| 2    | bk                          |                | 0.891    |
+| 2    | BK                          |                | 0.891    |
 | 3    | Baseline (XLM-RoBERTa-base) | Nl4Opt         | 0.889*   |
 | 4    | VTCC-NLP                    | Viettel        | 0.857    |
 
@@ -29,7 +29,7 @@ This leaderboard was last updated on: August 18th, 2022
 
 ## Sub-task 2
 
-| Rank | Participant Name | Affiliation(s) | Accuracy |
+| Rank | Team Name        | Affiliation(s) | Accuracy |
 |:----:|:----------------:|:--------------:|:--------:|
 | 1    | Baseline (BART)  | NL4Opt         | 0.61*    |
 |      |                  |                |          |
