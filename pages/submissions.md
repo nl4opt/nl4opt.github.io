@@ -18,7 +18,7 @@ We will use the [Lambda Labs' GPU Cloud](https://lambdalabs.com/service/gpu-clou
 
 
 ## Example Submission
-Using the Baselines models for both subtasks, we created an [**Example Submission Folder**](https://drive.google.com/drive/folders/18Rji40KTmKBMmkg_SbuUjsYciIIlrqEW?usp=sharing) on Google Drive. We encourage the participants to take a look before submitting. 
+Using the Baselines models for both subtasks, we created an [**Example Submission Folder**](https://drive.google.com/drive/folders/18Rji40KTmKBMmkg_SbuUjsYciIIlrqEW?usp=sharing) on Google Drive. We encourage the participants to take a look at the examples before submitting. 
 
 
 ## Instructions
