@@ -23,11 +23,14 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 
 # News
 
-### 2022-08-09 Announcements
+## 2022-08-18
+1. Due to the problems with CUDA compatibility for older libraries, we have decided to switch the GPU instance for evaluation to RTX 6000 (14 vCPUs, 46 GiB RAM).
+
+## 2022-08-09 Announcements
 1. We have created an example submission folder on Google Drive ([Link](https://drive.google.com/drive/folders/18Rji40KTmKBMmkg_SbuUjsYciIIlrqEW?usp=sharing)) using the baseline models for both subtasks.
 2. The slides from the Zoom Q\&A Sessions are available in the Competition Github Repo ([Link](https://github.com/nl4opt/nl4opt-competition/blob/main/NL4OPT_Q_A_Sessions.pdf))
 
-### 2022-07-26 Announcements
+## 2022-07-26 Announcements
 1. We will begin evaluating the submissions for both tasks after July 26 12pm PST
     * GPU instance on Lambda Labs will be used to test your submissions, the instance has 1x A6000 (48GB) with 14 vCPUs, and 100 GiB RAM (You can test your script by creating an instance and running it on dev data). 
 
@@ -41,7 +44,7 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
     
     * Please check your email for links to both Zoom sessions
 
-### 2022-07-22 Announcements
+## 2022-07-22 Announcements
 
 1. Please check if your team has received an email with link to your Google Drive folder used for evaluating your submissions
     * More instructions for the evaluations on the test set will be available in the upcoming week
@@ -50,7 +53,7 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 
 2. __Revisions for Sub-task 1 dataset__: As described in the [Data repository](https://github.com/nl4opt/nl4opt-competition), we have removed white space tokens from the NER dataset. The held-out test set has also been updated to the same format.
 
-### 2022-07-05 Announcements
+## 2022-07-05 Announcements
 
 1. The data and starter-kits have been released!
     * [Data repository](https://github.com/nl4opt/nl4opt-competition)
