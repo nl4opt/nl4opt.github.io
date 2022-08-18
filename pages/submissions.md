@@ -8,9 +8,12 @@ permalink: /submissions/
 
 # How to Submit
 
+## Leaderboard Updates
+The submissions will be evaluated on every Wednesday and Friday on the [anywhere on earth (AoE)](https://www.timeanddate.com/time/zones/aoe) time zone. Please refer to our [Leaderboard Page](https://nl4opt.github.io/leaderboard/) for updates on the current top submissions.
 
-## GPU Instance
-We will use a GPU instance on Lambda Labs to test your submissions, the instance has 1x A6000 (48GB) with 14 vCPUs, and 100 GiB RAM. Please feel free to test your code on the their server to ensure your submissions are successful.
+
+## GPU Instance (Updated)
+We will use the [Lambda Labs' GPU Cloud](https://lambdalabs.com/service/gpu-cloud) to test the submissions, the instance we use has 1x RTX6000 (24GB) with 14 vCPUs, and 46 GiB RAM. We encourage the participants to test their scripts on the GPU instance to ensure successful submissions.
 
 
 ## Instructions
@@ -70,6 +73,7 @@ Team Name
 ```
 
 Please ensure that all file and folder names are correct, you can refer to our [evaluation script](https://github.com/nl4opt/nl4opt-competition/blob/main/evaluate_submission.sh) for details. Lastly, please ensure your script finish execution in a reasonable amount of time (<10 min), and refrain from downloading unnecessarily large files to the local file system.
+
 
 ## Tips
 If you don't want to upload your code to Google Drive, you can download your submission files in your script `evaluate.sh` to the local directory (e.g. using wget). We will be erasing all data on the instance after each evaluation session.
