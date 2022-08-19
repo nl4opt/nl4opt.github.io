@@ -25,6 +25,7 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 
 ## 2022-08-18
 1. Due to the problems with CUDA compatibility for older libraries, we have decided to switch the GPU instance for evaluation to RTX 6000 (14 vCPUs, 46 GiB RAM).
+2. We have changed the evaluation schedule to two per week on Wednesday and Friday, please ensure that your submission is uploaded to the Google Drive Folder by 8am PST on the same days.
 
 ## 2022-08-09 Announcements
 1. We have created an example submission folder on Google Drive ([Link](https://drive.google.com/drive/folders/18Rji40KTmKBMmkg_SbuUjsYciIIlrqEW?usp=sharing)) using the baseline models for both subtasks.
