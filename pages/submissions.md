@@ -9,12 +9,11 @@ permalink: /submissions/
 # How to Submit
 
 ## Leaderboard Updates
-The submissions will be evaluated on every Wednesday and Friday on the [anywhere on earth (AoE)](https://www.timeanddate.com/time/zones/aoe) time zone. Please refer to our [Leaderboard Page](https://nl4opt.github.io/leaderboard/) for updates on the current top submissions.
+The submissions will be evaluated on every Wednesday and Friday after 8am PST. Please refer to our [Leaderboard Page](https://nl4opt.github.io/leaderboard/) for updates on the current top submissions.
 
 
 ## GPU Instance (Updated)
 We will use the [Lambda Labs' GPU Cloud](https://lambdalabs.com/service/gpu-cloud) to test the submissions, the instance we use has 1x RTX6000 (24GB) with 14 vCPUs, and 46 GiB RAM. We encourage the participants to test their scripts on the GPU instance to ensure successful submissions.
-
 
 
 ## Example Submission
