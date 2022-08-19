@@ -10,7 +10,7 @@ permalink: /leaderboard/
 
 
 
-The leaderboard will be updated periodically and each participants submission will be evaluated by our organizers every Wednesday and Friday on the [anywhere on earth (AoE)](https://www.timeanddate.com/time/zones/aoe) time zone. Please refer to <!-- the template in the starter kit and --> our [Submission Page](https://nl4opt.github.io/submissions/) for detailed instructions for the submission. To ensure that your latest submission is properly evaluated, we recommend you to update your submission to the Google Drive folder (provided to you in an email from our organizers) on the Tuesday or Thursday. 
+The leaderboard will be updated periodically and each participants submission will be evaluated by our organizers every Wednesday and Friday on the [Pacific Time Zone (PST)](https://time.is/PT). Please refer to <!-- the template in the starter kit and --> our [Submission Page](https://nl4opt.github.io/submissions/) for detailed instructions for the submission. To ensure that your latest submission is properly evaluated, we recommend you to update your submission to the Google Drive folder (provided to you in an email from our organizers) by 8am on the evaluation days (PST). 
 
 This leaderboard was last updated on: August 18th, 2022
 
