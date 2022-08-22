@@ -24,7 +24,7 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 # News
 
 ## 2022-08-22
-1. For subtask-1 baseline, default argument for `max_length` for input has been updated from `100` to `200`. The updated value is used to achieve the reported performance (you should also update this value for you own model). Please pull our latest version from [our repo](https://github.com/nl4opt/nl4opt-subtask1-baseline) if you plan on running the baseline code.
+1. For subtask-1 baseline, default argument for `max_length` for input has been updated from `100` to `200`. You should also update this value for you own model. Please pull our latest version from [our repo](https://github.com/nl4opt/nl4opt-subtask1-baseline) if you plan on running the baseline code.
 2. TBA: similar changes will announced for the baseline model for subtask-2
 
 ## 2022-08-18
