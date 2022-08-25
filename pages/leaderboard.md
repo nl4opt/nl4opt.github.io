@@ -15,6 +15,7 @@ This leaderboard was last updated on: August 23rd, 2022
 *Baseline results have been updated since revising the `max_length` default value from `100` to `200`*.
 
 ## Sub-task 1
+
 | Rank | Team Name                   | Affiliation(s) | F1 Score |
 |:----:|:---------------------------:|:--------------:|:--------:|
 | 1    | mcmc                        |                | 0.929    |
