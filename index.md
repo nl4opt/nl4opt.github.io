@@ -23,6 +23,9 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 
 # News
 
+## 2022-08-25
+1. Subtask-2's baseline has been updated to use `spans` instead of `obj_declaration` and `const_declaration` in the dictionaries. See [discussion 32](https://github.com/nl4opt/nl4opt-competition/discussions/32) for more details. Please pull this code if you are planning on using the baseline code.
+
 ## 2022-08-22
 1. For subtask-1 baseline, default argument for `max_length` for input has been updated from `100` to `200`. You should also update this value for you own model. Please pull our latest version from [our repo](https://github.com/nl4opt/nl4opt-subtask1-baseline) if you plan on running the baseline code.
 2. TBA: similar changes will announced for the baseline model for subtask-2
