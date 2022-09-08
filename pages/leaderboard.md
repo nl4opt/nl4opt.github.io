@@ -37,7 +37,7 @@ This leaderboard was last updated on: September 3rd, 2022
 |:----:|:---------------:|:--------------:|:--------:|
 | T1   | Baseline (BART) | NL4Opt         | 0.608*   |
 | T1   | Dream           |                | 0.608    |
-|      |                 |                |          |
+| T1   | CUFE            |Cairo University| 0.608    |
 
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
 
