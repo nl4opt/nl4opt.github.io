@@ -16,14 +16,15 @@ This leaderboard was last updated on: September 3rd, 2022
 
 ## Sub-task 1
 
-| Rank | Team Name                   | Affiliation(s) | F1 Score |
-|:----:|:---------------------------:|:--------------:|:--------:|
-| 1    | KKKKKi                      | Netease        | 0.936    |
-| 2    | mcmc                        |                | 0.929    |
-| 3    | BK                          |                | 0.918    |
-| 4    | Baseline (XLM-RoBERTa-base) | Nl4Opt         | 0.906*   |
-| 5    | VTCC-NLP                    | Viettel        | 0.905    |
-| 6    | Dream                       |                | 0.895    |
+| Rank | Team Name                   | Affiliation(s)  | F1 Score |
+|:----:|:---------------------------:|:---------------:|:--------:|
+| 1    | KKKKKi                      | Netease         | 0.936    |
+| 2    | mcmc                        |                 | 0.929    |
+| 3    | BK                          |                 | 0.918    |
+| 4    | Baseline (XLM-RoBERTa-base) | Nl4Opt          | 0.906*   |
+| 5    | VTCC-NLP                    | Viettel         | 0.905    |
+| 6    | Dream                       |                 | 0.895    |
+| 7    | CUFE                        | Cairo University| 0.889    |
 
 
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
