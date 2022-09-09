@@ -21,10 +21,12 @@ This leaderboard was last updated on: September 7th, 2022
 | 1    | KKKKKi                      | Netease         | 0.936    |
 | 2    | mcmc                        |                 | 0.934    |
 | 3    | BK                          |                 | 0.918    |
-| 4    | VTCC-NLP                    | Viettel         | 0.908    |
-| 5    | Baseline (XLM-RoBERTa-base) | Nl4Opt          | 0.906*   |
-| 6    | Dream                       |                 | 0.895    |
-| 7    | CUFE                        | Cairo University| 0.889    |
+| 4    | Try1try                     | GWU             | 0.917    |
+| 5    | LeNam                       | VNUHCM          | 0.915    |
+| 6    | VTCC-NLP                    | Viettel         | 0.908    |
+| 7    | Baseline (XLM-RoBERTa-base) | Nl4Opt          | 0.906*   |
+| 8    | Dream                       |                 | 0.895    |
+| 9    | CUFE                        | Cairo University| 0.889    |
 
 
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
