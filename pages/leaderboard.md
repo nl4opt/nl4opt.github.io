@@ -19,7 +19,7 @@ This leaderboard was last updated on: September 7th, 2022
 | Rank | Team Name                   | Affiliation(s)  | F1 Score |
 |:----:|:---------------------------:|:---------------:|:--------:|
 | 1    | KKKKKi                      | Netease         | 0.936    |
-| 2    | mcmc                        |                 | 0.929    |
+| 2    | mcmc                        |                 | 0.934    |
 | 3    | BK                          |                 | 0.918    |
 | 4    | VTCC-NLP                    | Viettel         | 0.908    |
 | 5    | Baseline (XLM-RoBERTa-base) | Nl4Opt          | 0.906*   |
