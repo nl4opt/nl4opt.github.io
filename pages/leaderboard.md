@@ -27,6 +27,7 @@ This leaderboard was last updated on: September 7th, 2022
 | 7    | Baseline (XLM-RoBERTa-base) | Nl4Opt          | 0.906*   |
 | 8    | Dream                       |                 | 0.895    |
 | 9    | CUFE                        | Cairo University| 0.889    |
+| 9    | DeepBlueAI                  | DeepBlueAI      | 0.887    |
 
 
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
