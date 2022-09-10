@@ -10,7 +10,7 @@ permalink: /leaderboard/
 
 The leaderboard will be updated periodically and each participants submission will be evaluated by our organizers every Wednesday and Friday on the [Pacific Time Zone (PST)](https://time.is/PT). Please refer to <!-- the template in the starter kit and --> our [Submission Page](https://nl4opt.github.io/submissions/) for detailed instructions for the submission. To ensure that your latest submission is properly evaluated, we recommend you to update your submission to the Google Drive folder (provided to you in an email from our organizers) by 8am on the evaluation days (PST). 
 
-This leaderboard was last updated on: September 7th, 2022
+This leaderboard was last updated on: September 10th, 2022
 
 *Baseline results have been updated since revising the `max_length` default value from `100` to `200`*.
 
@@ -20,8 +20,8 @@ This leaderboard was last updated on: September 7th, 2022
 |:----:|:---------------------------:|:---------------:|:--------:|
 | 1    | KKKKKi                      | Netease         | 0.936    |
 | 2    | mcmc                        |                 | 0.934    |
-| 3    | BK                          |                 | 0.918    |
-| 4    | Try1try                     | GWU             | 0.917    |
+| 3    | Try1try                     | GWU             | 0.924    |
+| 4    | BK                          |                 | 0.918    |
 | 5    | LeNam                       | VNUHCM          | 0.915    |
 | 6    | VTCC-NLP                    | Viettel         | 0.908    |
 | 7    | Baseline (XLM-RoBERTa-base) | Nl4Opt          | 0.906*   |
