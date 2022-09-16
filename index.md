@@ -23,6 +23,13 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 
 # News
 
+## 2022-09-16
+1. We will be hosting two additional Zoom Q&A Sessions (focusing on subtask-2)
+
+    * The first session will be on September 22nd 11am-12pm PST, the second session will be on September 22nd 10-11pm PST
+    
+    * Please check your email for links to both Zoom sessions
+
 ## 2022-08-25
 1. Subtask-2's baseline has been updated to use `spans` instead of `obj_declaration` and `const_declaration` in the dictionaries. See [discussion 32](https://github.com/nl4opt/nl4opt-competition/discussions/32) for more details. Please pull this code if you are planning on using the baseline code.
 
