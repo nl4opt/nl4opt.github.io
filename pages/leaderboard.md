@@ -10,7 +10,7 @@ permalink: /leaderboard/
 
 The leaderboard will be updated periodically and each participants submission will be evaluated by our organizers every Wednesday and Friday on the [Pacific Time Zone (PST)](https://time.is/PT). Please refer to <!-- the template in the starter kit and --> our [Submission Page](https://nl4opt.github.io/submissions/) for detailed instructions for the submission. To ensure that your latest submission is properly evaluated, we recommend you to update your submission to the Google Drive folder (provided to you in an email from our organizers) by 8am on the evaluation days (PST). 
 
-This leaderboard was last updated on: September 14th, 2022
+This leaderboard was last updated on: September 16th, 2022
 
 *Baseline results have been updated since revising the `max_length` default value from `100` to `200`*.
 
@@ -18,18 +18,19 @@ This leaderboard was last updated on: September 14th, 2022
 
 | Rank | Team Name                   | Affiliation(s)   | F1 Score |
 |:----:|:---------------------------:|:----------------:|:--------:|
-| 1    | mcmc                        |                  | 0.942    |
-| 2    | rs                          |                  | 0.941    |
-| 3    | KKKKKi                      | Netease          | 0.940    |
+| 1    | KKKKKi                      | Netease          | 0.943    |
+| 2    | mcmc                        |                  | 0.942    |
+| 3    | rs                          |                  | 0.941    |
 | 4    | Try1try                     | GWU              | 0.924    |
-| 5    | PingAn-zhiniao              | PingAn Technology| 0.919    |
-| 6    | BK                          |                  | 0.918    |
-| 7    | LeNam                       | VNUHCM           | 0.915    |
-| 8    | VTCC-NLP                    | Viettel          | 0.908    |
-| 9    | Baseline (XLM-RoBERTa-base) | Nl4Opt           | 0.906*   |
-| 10   | Dream                       |                  | 0.895    |
-| 11   | CUFE                        | Cairo University | 0.889    |
-| 12   | DeepBlueAI                  | DeepBlueAI       | 0.887    |
+| 5    | LeNam                       | VNUHCM           | 0.923    |
+| 6    | PingAn-zhiniao              | PingAn Technology| 0.922    |
+| 7    | BK                          |                  | 0.9182   |
+| 8    | Long                        |                  | 0.9180   |
+| 9    | VTCC-NLP                    | Viettel          | 0.908    |
+| 10   | Baseline (XLM-RoBERTa-base) | Nl4Opt           | 0.906*   |
+| 11   | Dream                       |                  | 0.895    |
+| 12   | CUFE                        | Cairo University | 0.889    |
+| 13   | DeepBlueAI                  | DeepBlueAI       | 0.887    |
 
 
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
