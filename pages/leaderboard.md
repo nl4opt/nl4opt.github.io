@@ -18,11 +18,11 @@ This leaderboard was last updated on: September 20th, 2022
 
 | Rank | Team Name                   | Affiliation(s)   | F1 Score |
 |:----:|:---------------------------:|:----------------:|:--------:|
-| 1    | HUHU                        |                  | 0.945    |
-| T2   | KKKKKi                      | Netease          | 0.943    |
-| T2   | Long                        |                  | 0.943    |
-| 4    | mcmc                        |                  | 0.942    |
-| 5    | rs                          |                  | 0.956    |
+| 1    | rs                          |                  | 0.956    |
+| 2    | HUHU                        |                  | 0.945    |
+| T3   | KKKKKi                      | Netease          | 0.943    |
+| T3   | Long                        |                  | 0.943    |
+| 5    | mcmc                        |                  | 0.942    |
 | 6    | Try1try                     | GWU              | 0.924    |
 | 7    | LeNam                       | VNUHCM           | 0.923    |
 | 8    | PingAn-zhiniao              | PingAn Technology| 0.922    |
