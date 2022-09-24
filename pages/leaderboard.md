@@ -32,8 +32,8 @@ This leaderboard was last updated on: September 21th, 2022
 | 11   | BK                          |                  | 0.918    |              |
 | 12   | DeepBlueAI                  | DeepBlueAI       | 0.911    |              |
 | 13   | Baseline (XLM-RoBERTa-base) | Nl4Opt           | 0.906*   |              |
-| 13   | CTRI_ysy                    | China Telecom Research Institute| 0.906*   |              |
-| 14   | CUFE                        | Cairo University | 0.889    |              |
+| 14   | CTRI_ysy                    | China Telecom Research Institute| 0.902   |              |
+| 15   | CUFE                        | Cairo University | 0.889    |              |
 
 
 
