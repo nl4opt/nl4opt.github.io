@@ -18,22 +18,23 @@ This leaderboard was last updated on: September 23th, 2022
 
 | Rank | Team Name                   | Affiliation(s)   | F1 Score | Team Members |
 |:----:|:---------------------------:|:----------------:|:--------:|:------------:|
-| 1    | rs                          |                  | 0.956    |              |
-| 2    | HUHU                        |                  | 0.945    |              |
-| T3   | KKKKKi                      | Netease          | 0.943    |              |
-| T3   | Long                        |                  | 0.943    |              |
-| 4    | mcmc                        |                  | 0.942    |              |
-| 5    | Dream                       |                  | 0.941    |              |
-| 6    | VTCC-NLP                    | Viettel          | 0.928    |              |
-| 7    | TeamFid                     | Fidelity         | 0.927    |              |
-| 8    | LeNam                       | VNUHCM           | 0.926    |              |
-| 9    | Try1try                     | GWU              | 0.924    |              |
-| 10   | PingAn-zhiniao              | PingAn Technology| 0.922    |              |
-| 11   | BK                          |                  | 0.918    |              |
-| 12   | DeepBlueAI                  | DeepBlueAI       | 0.911    |              |
-| 13   | Baseline (XLM-RoBERTa-base) | Nl4Opt           | 0.906*   |              |
-| 14   | CTRI_ysy                    | China Telecom Research Institute| 0.902   |              |
-| 15   | CUFE                        | Cairo University | 0.889    |              |
+| 1    | KKKKKi                      | Netease          | 0.957    |              |
+| 2    | rs                          |                  | 0.956    |              |
+| 3    | HUHU                        |                  | 0.945    |              |
+| 4    | Long                        |                  | 0.943    |              |
+| 5    | mcmc                        |                  | 0.942    |              |
+| 6    | Dream                       |                  | 0.941    |              |
+| 7    | VTCC-NLP                    | Viettel          | 0.929    |              |
+| 8    | TeamFid                     | Fidelity         | 0.927    |              |
+| 9    | LeNam                       | VNUHCM           | 0.926    |              |
+| 10   | Try1try                     | GWU              | 0.924    |              |
+| 11   | PingAn-zhiniao              | PingAn Technology| 0.922    |              |
+| 12   | BK                          |                  | 0.918    |              |
+| 13   | DeepBlueAI                  | DeepBlueAI       | 0.911    |              |
+| 14   | Baseline (XLM-RoBERTa-base) | Nl4Opt           | 0.906*   |              |
+| 15   | CTRI_ysy                    | China Telecom Research Institute| 0.902   |              |
+| 16   | holajoa                     | Imperial College London| 0.900   |              |
+| 17   | CUFE                        | Cairo University | 0.889    |              |
 
 
 
