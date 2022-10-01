@@ -18,8 +18,8 @@ This leaderboard was last updated on: September 30th, 2022
 
 | Rank | Team Name                   | Affiliation(s)                  | F1 Score | Team Members |
 |:----:|:---------------------------:|:-------------------------------:|:--------:|:------------:|
-| 1    | KKKKKi                      | Netease                         | 0.957    |              |
-| 2    | rs                          |                                 | 0.971    |              |
+| 1    | rs                          |                                 | 0.971    |              |
+| 2    | KKKKKi                      | Netease                         | 0.957    |              |
 | 3    | HUHU                        |                                 | 0.945    |              |
 | 4    | Long                        |                                 | 0.943    |              |
 | 5    | mcmc                        |                                 | 0.942    |              |
