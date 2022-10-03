@@ -16,27 +16,25 @@ This leaderboard was last updated on: September 30th, 2022
 
 ## Sub-task 1
 
-| Rank | Team Name                   | Affiliation(s)                  | F1 Score | Team Members |
-|:----:|:---------------------------:|:-------------------------------:|:--------:|:------------:|
-| 1    | rs                          |                                 | 0.971    |              |
-| 2    | KKKKKi                      | Netease                         | 0.957    |              |
-| 3    | HUHU                        |                                 | 0.945    |              |
-| 4    | Long                        |                                 | 0.943    |              |
-| 5    | mcmc                        |                                 | 0.942    |              |
-| 6    | Dream                       |                                 | 0.941    |              |
-| 7    | PingAn-zhiniao              | PingAn Technology               | 0.935    |              |
-| 8    | VTCC-NLP                    | Viettel                         | 0.929    |              |
-| 9    | TeamFid                     | Fidelity                        | 0.927    |              |
-| 10   | LeNam                       | VNUHCM                          | 0.926    |              |
-| 11   | Try1try                     | GWU                             | 0.924    |              |
-| 12   | BK                          |                                 | 0.918    |              |
-| 13   | DeepBlueAI                  | DeepBlueAI                      | 0.911    |              |
-| 14   | Baseline (XLM-RoBERTa-base) | Nl4Opt                          | 0.906*   |              |
-| 15   | CTRI_ysy                    | China Telecom Research Institute| 0.902    |              |
-| 16   | holajoa                     | Imperial College London         | 0.915    |              |
-| 17   | CUFE                        | Cairo University                | 0.889    |              |
-
-
+| Rank | Team Name                   | Affiliation(s)                   | F1 Score | Team Members |
+|:----:|:---------------------------:|:--------------------------------:|:--------:|:------------:|
+| 1    | rs                          |                                  | 0.971    |              |
+| 2    | KKKKKi                      | Netease                          | 0.957    |              |
+| 3    | HUHU                        |                                  | 0.945    |              |
+| 4    | Long                        |                                  | 0.943    |              |
+| 5    | mcmc                        |                                  | 0.942    |              |
+| 6    | Dream                       |                                  | 0.941    |              |
+| 7    | PingAn-zhiniao              | PingAn Technology                | 0.935    |              |
+| 8    | VTCC-NLP                    | Viettel                          | 0.929    |              |
+| 9    | TeamFid                     | Fidelity                         | 0.927    |              |
+| 10   | LeNam                       | VNUHCM                           | 0.926    |              |
+| 11   | Try1try                     | GWU                              | 0.924    |              |
+| 12   | BK                          |                                  | 0.918    |              |
+| 13   | holajoa                     | Imperial College London          | 0.915    |              |
+| 14   | DeepBlueAI                  | DeepBlueAI                       | 0.911    |              |
+| 15   | Baseline (XLM-RoBERTa-base) | Nl4Opt                           | 0.906*   |              |
+| 16   | CTRI_ysy                    | China Telecom Research Institute | 0.902    |              |
+| 17   | CUFE                        | Cairo University                 | 0.889    |              |
 
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
 
@@ -44,14 +42,14 @@ This leaderboard was last updated on: September 30th, 2022
 
 ## Sub-task 2
 
-| Rank | Team Name       | Affiliation(s)   | Accuracy | Team Members |
-|:----:|:---------------:|:----------------:|:--------:|:------------:|
-| 1    | PingAn-zhiniao  | PingAn Technology| 0.858    |              |
-| 2    | KKKKKi          |                  | 0.815    |              |
-| 3    | Long            |                  | 0.803    |              |
-| T4   | Baseline (BART) | NL4Opt           | 0.608*   |              |
-| T4   | Dream           |                  | 0.608    |              |
-| T4   | CUFE            |Cairo University. | 0.608    |              |
+| Rank | Team Name       | Affiliation(s)    | Accuracy | Team Members |
+|:----:|:---------------:|:-----------------:|:--------:|:------------:|
+| 1    | PingAn-zhiniao  | PingAn Technology | 0.858    |              |
+| 2    | KKKKKi          | Netease           | 0.815    |              |
+| 3    | Long            |                   | 0.803    |              |
+| T4   | Baseline (BART) | NL4Opt            | 0.608*   |              |
+| T4   | Dream           |                   | 0.608    |              |
+| T4   | CUFE            | Cairo University. | 0.608    |              |
 
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
 
