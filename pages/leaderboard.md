@@ -12,8 +12,6 @@ The leaderboard will be updated periodically and each participants submission wi
 
 This leaderboard was last updated on: September 30th, 2022
 
-*Baseline results have been updated since revising the `max_length` default value from `100` to `200`*.
-
 ## Sub-task 1
 
 | Rank | Team Name                   | Affiliation(s)                   | F1 Score | Team Members |
