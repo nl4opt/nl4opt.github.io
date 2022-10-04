@@ -45,6 +45,7 @@ This leaderboard was last updated on: September 30th, 2022
 | 1    | PingAn-zhiniao  | PingAn Technology | 0.858    |              |
 | 2    | KKKKKi          | Netease           | 0.815    |              |
 | 3    | Long            |                   | 0.803    |              |
+| 4    | UIUC-NLP        | UIUC              | 0.783    |              |
 | T4   | Baseline (BART) | NL4Opt            | 0.608*   |              |
 | T4   | Dream           |                   | 0.608    |              |
 | T4   | CUFE            | Cairo University. | 0.608    |              |
