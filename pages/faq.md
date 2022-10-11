@@ -33,19 +33,20 @@ Yes, we welcome individuals as well as teams to participate.
 **Q**: *What do I need to make a submission?*
 
 <!-- * Make sure you include the following in your submission:
-  
+
   * Same ID code given after registration to identify their multiple submissions.
-  
+
   * A Poetry configuration to manage the participant's Python library dependencies in a deterministic way. Please refer to the template in the starter kit and tutorial for a step-by-step guide.
-  
+
   * A binary file for the trained model.
-  
+
   * If the output of your model format is different from that of the baseline model provided im the starter kit, please provide a conversion script. Please refer to the tutorial for more details.
-  
+
   * For the second sub-task. if you used a different meaning representation. please provide a script to convert their model prediction to the canonical format used for evaluation. Refer to the example/default conversion script in the starter kit. -->
-  * Please carefully follow the instructions on [Submissions](https://nl4opt.github.io/submissions/). 
-  
-  * Winning submissions will be required to include a brief description of your method.
+
+* Please carefully follow the instructions on [Submissions](https://nl4opt.github.io/submissions/). 
+
+* Winning submissions will be required to include a brief description of your method.
 
 * Follow the submission protocol details on the website.
 
