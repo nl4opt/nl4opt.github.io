@@ -19,7 +19,7 @@ This leaderboard was last updated on: October 12th, 2022
 | 1    | rs                          |                                  | 0.982    |              |
 | 2    | KKKKKi                      | Netease                          | 0.957    |              |
 | 3    | HUHU                        |                                  | 0.945    |              |
-| 4    | Long                        |                                  | 0.943    |              |
+| 4    | Long                        | BDAA-BASE                        | 0.943    |              |
 | 5    | mcmc                        |                                  | 0.942    |              |
 | 6    | Infrrd AI Lab               | Infrrd                           | 0.942    |              |
 | 7    | Dream                       |                                  | 0.941    |              |
@@ -56,8 +56,6 @@ This leaderboard was last updated on: October 12th, 2022
 | T7   | Dream           |                   | 0.608    |              |
 | T7   | CUFE            |                   | 0.608    |              |
 | 11   | November        | FSU-Jena          | 0.496    |              |
-
-
 
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
 
