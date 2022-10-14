@@ -24,18 +24,19 @@ This leaderboard was last updated on: October 12th, 2022
 | 6    | Infrrd AI Lab               | Infrrd                           | 0.942    |              |
 | 7    | Dream                       |                                  | 0.941    |              |
 | 8    | PingAn-zhiniao              | PingAn Technology                | 0.935    |              |
-| 9    | VTCC-NLP                    | Viettel                          | 0.929    |              |
-| 10   | TeamFid                     | Fidelity                         | 0.927    |              |
-| 11   | LeNam                       | VNUHCM                           | 0.926    |              |
-| 12   | Try1try                     | GWU                              | 0.924    |              |
-| 13   | DeepBlueAI                  | DeepBlueAI                       | 0.923    |              |
-| 14   | BK                          |                                  | 0.918    |              |
-| 15   | holajoa                     | Imperial College London          | 0.915    |              |
-| 16   | UIUC-NLP                    | UIUC                             | 0.912    |              |
-| 17   | Baseline (XLM-RoBERTa-base) | Nl4Opt                           | 0.906*   |              |
-| 18   | CTRI_ysy                    | China Telecom Research Institute | 0.902    |              |
-| 19   | macd                        | Cairo University                 | 0.891    |              |
-| 20   | CUFE                        | Cairo University                 | 0.889    |              |
+| 9    | Sjang                       | POSTECH                          | 0.930    |              |
+| 10   | VTCC-NLP                    | Viettel                          | 0.929    |              |
+| 11   | TeamFid                     | Fidelity                         | 0.927    |              |
+| 12   | LeNam                       | VNUHCM                           | 0.926    |              |
+| 13   | Try1try                     | GWU                              | 0.924    |              |
+| 14   | DeepBlueAI                  | DeepBlueAI                       | 0.923    |              |
+| 15   | BK                          |                                  | 0.918    |              |
+| 16   | holajoa                     | Imperial College London          | 0.915    |              |
+| 17   | UIUC-NLP                    | UIUC                             | 0.912    |              |
+| 18   | Baseline (XLM-RoBERTa-base) | Nl4Opt                           | 0.906*   |              |
+| 19   | CTRI_ysy                    | China Telecom Research Institute | 0.902    |              |
+| 20   | macd                        |                                  | 0.891    |              |
+| 21   | CUFE                        | Cairo University                 | 0.889    |              |
 
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
 
@@ -45,14 +46,15 @@ This leaderboard was last updated on: October 12th, 2022
 
 | Rank | Team Name       | Affiliation(s)    | Accuracy | Team Members |
 |:----:|:---------------:|:-----------------:|:--------:|:------------:|
-| 1    | PingAn-zhiniao  | PingAn Technology | 0.858    |              |
-| 4    | UIUC-NLP        | UIUC              | 0.853    |              |
-| 3    | Long            |                   | 0.831    |              |
-| 2    | KKKKKi          | Netease           | 0.815    |              |
-| 5    | Infrrd AI Lab   | Infrrd            | 0.732    |              |
-| T6   | Baseline (BART) | NL4Opt            | 0.608*   |              |
-| T6   | Dream           |                   | 0.608    |              |
-| T6   | CUFE            |                   | 0.608    |              |
+| 1    | Sjang           | PingAn Technology | 0.892    |              |
+| 2    | PingAn-zhiniao  | PingAn Technology | 0.858    |              |
+| 3    | UIUC-NLP        | UIUC              | 0.853    |              |
+| 4    | Long            |                   | 0.831    |              |
+| 5    | KKKKKi          | Netease           | 0.815    |              |
+| 6    | Infrrd AI Lab   | Infrrd            | 0.732    |              |
+| T7   | Baseline (BART) | NL4Opt            | 0.608*   |              |
+| T7   | Dream           |                   | 0.608    |              |
+| T7   | CUFE            |                   | 0.608    |              |
 
 
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
