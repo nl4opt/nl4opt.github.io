@@ -46,7 +46,7 @@ This leaderboard was last updated on: October 12th, 2022
 
 | Rank | Team Name       | Affiliation(s)    | Accuracy | Team Members |
 |:----:|:---------------:|:-----------------:|:--------:|:------------:|
-| 1    | Sjang           | PingAn Technology | 0.892    |              |
+| 1    | Sjang           | POSTECH           | 0.892    |              |
 | 2    | PingAn-zhiniao  | PingAn Technology | 0.858    |              |
 | 3    | UIUC-NLP        | UIUC              | 0.853    |              |
 | 4    | Long            |                   | 0.831    |              |
