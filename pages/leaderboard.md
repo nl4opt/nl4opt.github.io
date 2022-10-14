@@ -55,6 +55,8 @@ This leaderboard was last updated on: October 12th, 2022
 | T7   | Baseline (BART) | NL4Opt            | 0.608*   |              |
 | T7   | Dream           |                   | 0.608    |              |
 | T7   | CUFE            |                   | 0.608    |              |
+| 11   | November        | FSU-Jena          | 0.496    |              |
+
 
 
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
