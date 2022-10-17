@@ -16,11 +16,11 @@ This leaderboard was last updated on: October 12th, 2022
 
 | Rank | Team Name                   | Affiliation(s)                   | F1 Score | Team Members |
 |:----:|:---------------------------:|:--------------------------------:|:--------:|:------------:|
-| 1    | rs                          |                                  | 0.982    |              |
-| 2    | KKKKKi                      | Netease                          | 0.957    |              |
-| 3    | HUHU                        |                                  | 0.945    |              |
-| 4    | Long                        | BDAA-BASE                        | 0.943    |              |
-| 5    | mcmc                        |                                  | 0.942    |              |
+| 1    | macd                        |                                  | 0.987    |              |
+| 2    | rs                          |                                  | 0.982    |              |
+| 3    | KKKKKi                      | Netease                          | 0.957    |              |
+| 4    | Long                        | BDAA-BASE                        | 0.946    |              |
+| 5    | mcmc                        |                                  | 0.945    |              |
 | 6    | Infrrd AI Lab               | Infrrd                           | 0.942    |              |
 | 7    | Dream                       |                                  | 0.941    |              |
 | 8    | PingAn-zhiniao              | PingAn Technology                | 0.935    |              |
@@ -35,8 +35,7 @@ This leaderboard was last updated on: October 12th, 2022
 | 17   | UIUC-NLP                    | UIUC                             | 0.912    |              |
 | 18   | Baseline (XLM-RoBERTa-base) | Nl4Opt                           | 0.906*   |              |
 | 19   | CTRI_ysy                    | China Telecom Research Institute | 0.902    |              |
-| 20   | macd                        |                                  | 0.891    |              |
-| 21   | CUFE                        | Cairo University                 | 0.889    |              |
+| 20   | CUFE                        | Cairo University                 | 0.889    |              |
 
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
 
@@ -46,16 +45,16 @@ This leaderboard was last updated on: October 12th, 2022
 
 | Rank | Team Name       | Affiliation(s)    | Accuracy | Team Members |
 |:----:|:---------------:|:-----------------:|:--------:|:------------:|
-| 1    | Sjang           | POSTECH           | 0.892    |              |
-| 2    | PingAn-zhiniao  | PingAn Technology | 0.858    |              |
-| 3    | UIUC-NLP        | UIUC              | 0.853    |              |
+| 1    | Sjang           | POSTECH           | 0.909    |              |
+| 2    | PingAn-zhiniao  | PingAn Technology | 0.893    |              |
+| 3    | UIUC-NLP        | UIUC              | 0.859    |              |
 | 4    | Long            |                   | 0.831    |              |
-| 5    | KKKKKi          | Netease           | 0.815    |              |
-| 6    | Infrrd AI Lab   | Infrrd            | 0.732    |              |
+| 5    | Infrrd AI Lab   | Infrrd            | 0.826    |              |
+| 6    | KKKKKi          | Netease           | 0.815    |              |
 | T7   | Baseline (BART) | NL4Opt            | 0.608*   |              |
 | T7   | Dream           |                   | 0.608    |              |
 | T7   | CUFE            |                   | 0.608    |              |
-| 11   | November        | FSU-Jena          | 0.496    |              |
+| 10   | November        | FSU-Jena          | 0.496    |              |
 
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
 
