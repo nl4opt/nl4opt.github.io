@@ -19,7 +19,7 @@ This leaderboard was last updated on: October 12th, 2022
 | 1    | macd                        |                                  | 0.987    |              |
 | 2    | rs                          |                                  | 0.982    |              |
 | 3    | KKKKKi                      | Netease                          | 0.957    |              |
-| 4    | Long                        | BDAA-BASE                        | 0.946    |              |
+| 4    | Long                        | USTC                             | 0.946    |              |
 | 5    | mcmc                        |                                  | 0.945    |              |
 | 6    | Infrrd AI Lab               | Infrrd                           | 0.942    |              |
 | 7    | Dream                       |                                  | 0.941    |              |
@@ -48,7 +48,7 @@ This leaderboard was last updated on: October 12th, 2022
 | 1    | Sjang           | POSTECH           | 0.909    |              |
 | 2    | PingAn-zhiniao  | PingAn Technology | 0.893    |              |
 | 3    | UIUC-NLP        | UIUC              | 0.859    |              |
-| 4    | Long            |                   | 0.831    |              |
+| 4    | Long            | USTC              | 0.831    |              |
 | 5    | Infrrd AI Lab   | Infrrd            | 0.826    |              |
 | 6    | KKKKKi          | Netease           | 0.815    |              |
 | T7   | Baseline (BART) | NL4Opt            | 0.608*   |              |
