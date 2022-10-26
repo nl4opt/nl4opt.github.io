@@ -23,7 +23,7 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 
 # News
 ## 2022-10-26
-1. We will be announcing the winner on November 4th, the deadline for submitting the training script is set to be October 28th.
+1. We will be announcing the winner on November 4th, the deadline for submitting your training scripts is set to be October 28th.
 
 ## 2022-09-16
 1. We will be hosting two additional Zoom Q&A Sessions (focusing on subtask-2)
