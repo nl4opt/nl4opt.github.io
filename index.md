@@ -22,6 +22,8 @@ title: Welcome to the NL4Opt competition website
 You can find the competition [rules](https://nl4opt.github.io/rules/) and answers to [commonly asked questions](https://nl4opt.github.io/faq/) on this website.
 
 # News
+## 2022-10-26
+1. We will be announcing the winner
 
 ## 2022-09-16
 1. We will be hosting two additional Zoom Q&A Sessions (focusing on subtask-2)
@@ -90,7 +92,7 @@ The following dates use the [anywhere on earth (AoE)](https://www.timeanddate.co
 | **Submission available.** The leaderboard and forum are opened, and the submissions are accepted.                                        | July 15th, 2022     |
 | **Deadline for registration**                                                                                                            | October 8th, 2022   |
 | **Deadline for submission.**                                                                                                             | October 15th, 2022  |
-| **Winners notification.** Winning teams are notified and instructed to provide information that will be included in the workshop report. | October 31st, 2022  |
+| **Winners notification.** Winning teams are notified and instructed to provide information that will be included in the workshop report. | November 4th, 2022  |
 | **Report submission deadline.**                                                                                                          | November 20th, 2022 |
 | **NeurIPS competition workshop.**                                                                                                        | December 2022       |
 
