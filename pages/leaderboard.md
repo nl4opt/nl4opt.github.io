@@ -27,6 +27,8 @@ This leaderboard was last updated on: October 16th, 2022
 | 9    | KKKKKi                      |  Netease                     | 0.917    |              |
 | 10   | holajoa                    |  Imperial College London      | 0.910    |              |
 | 11   | Dream                      |                                  | 0.884    |              |
+| -   | macd                        |                                  | 0.987    |              |
+| -   | rs                          |                                  | 0.982    |              |
 | -   | LeNam                       | VNUHCM                           | 0.926    |              |
 | -   | Try1try                     | GWU                              | 0.924    |              |
 | -   | BK                          |                                  | 0.918    |              |
