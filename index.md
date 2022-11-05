@@ -22,6 +22,11 @@ title: Welcome to the NL4Opt competition website
 You can find the competition [rules](https://nl4opt.github.io/rules/) and answers to [commonly asked questions](https://nl4opt.github.io/faq/) on this website.
 
 # News
+## 2022-11-04
+1. The winners have been tentatively announced (see [leaderboard](https://nl4opt.github.io/leaderboard/)). 
+2. We require the winning teams to fill out the Google Form (sent via email) with information describing their submissions. 
+3. All other teams are also encouraged to fill out the form, as submissions with enough novelty may be invited to submit a technical report.
+
 ## 2022-10-26
 1. We will be announcing the winner on November 4th, the deadline for submitting your training scripts is set to be October 28th.
 
