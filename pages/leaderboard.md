@@ -50,10 +50,10 @@ __Bold__ names indicate winning teams (tentative), only reproduced submissions a
 | 4    | __PingAn-zhiniao__  | __PingAn Technology__ | __0.866__    |              |
 | 5    | __Infrrd AI Lab__   | __Infrrd__            | __0.780__    |              |
 | 6    | KKKKKi          | Netease           | 0.815    |              |
-| T7   | Baseline (BART) | NL4Opt            | 0.608*   |              |
-| T7   | Dream           |                   | 0.608    |              |
-| T7   | CUFE            |                   | 0.608    |              |
-| 10   | November        | FSU-Jena          | 0.496    |              |
+| -   | Baseline (BART) | NL4Opt            | 0.608*   |              |
+| -   | Dream           |                   | 0.608    |              |
+| -   | CUFE            |                   | 0.608    |              |
+| -   | November        | FSU-Jena          | 0.496    |              |
 
 __Bold__ names indicate winning teams (tentative), only reproduced submissions are ranked.
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
