@@ -16,27 +16,26 @@ This leaderboard was last updated on: October 16th, 2022
 
 | Rank | Team Name                   | Affiliation(s)                   | F1 Score | Team Members |
 |:----:|:---------------------------:|:--------------------------------:|:--------:|:------------:|
-| 1    | macd                        |                                  | 0.987    |              |
-| 2    | rs                          |                                  | 0.982    |              |
-| 3    | KKKKKi                      | Netease                          | 0.957    |              |
-| 4    | Long                        | BDAA-BASE                        | 0.946    |              |
-| 5    | mcmc                        |                                  | 0.945    |              |
-| 6    | Infrrd AI Lab               | Infrrd                           | 0.942    |              |
-| 7    | Dream                       |                                  | 0.941    |              |
-| 8    | PingAn-zhiniao              | PingAn Technology                | 0.935    |              |
-| 9    | Sjang                       | POSTECH                          | 0.930    |              |
-| 10   | VTCC-NLP                    | Viettel                          | 0.929    |              |
-| 11   | TeamFid                     | Fidelity                         | 0.927    |              |
-| 12   | LeNam                       | VNUHCM                           | 0.926    |              |
-| 13   | Try1try                     | GWU                              | 0.924    |              |
-| 14   | DeepBlueAI                  | DeepBlueAI                       | 0.923    |              |
-| 15   | BK                          |                                  | 0.918    |              |
-| 16   | holajoa                     | Imperial College London          | 0.915    |              |
-| 17   | UIUC-NLP                    | UIUC                             | 0.912    |              |
-| 18   | Baseline (XLM-RoBERTa-base) | Nl4Opt                           | 0.906*   |              |
-| 19   | CTRI_ysy                    | China Telecom Research Institute | 0.902    |              |
-| 20   | CUFE                        | Cairo University                 | 0.889    |              |
+| 1    | __Infrrd AI Lab__           |  __Infrrd__                      | __0.939__|              |
+| 2    | __mcmc__                    |  __OPD__                         | __0.933__|              |
+| 3    | __PingAn-zhiniao__          |  __PingAn Technology__           | __0.932__|              |
+| 4    | __Long__                    |  __BDAA-BASE__                   | __0.931__|              |
+| 5    | __VTCC-NLP__                |  __Viettel__                     | __0.929__|              |
+| 6    | Sjang                       |  __POSTECH__                     | 0.927    |              |
+| 7    | DeepBlueAI                  |  __DeepBlueAI__                  | 0.921    |              |
+| 8    | TeamFid                     |  __Fidelity__                    | 0.920    |              |
+| 9    | KKKKKi                      |  __Netease__                     | 0.917    |              |
+| 10   | holajoa                    |  __Imperial College London__      | 0.910    |              |
+| 11   | Dream                      |                                  | 0.884    |              |
+| -   | LeNam                       | VNUHCM                           | 0.926    |              |
+| -   | Try1try                     | GWU                              | 0.924    |              |
+| -   | BK                          |                                  | 0.918    |              |
+| -   | UIUC-NLP                    | UIUC                             | 0.912    |              |
+| -   | Baseline (XLM-RoBERTa-base) | Nl4Opt                           | 0.906*   |              |
+| -   | CTRI_ysy                    | China Telecom Research Institute | 0.902    |              |
+| -   | CUFE                        | Cairo University                 | 0.889    |              |
 
+__Bold__ names indicate winning teams (tentative), only reproduced submissions are ranked.
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
 
 * For this challenge, the **micro-averaged F1 score** is the evaluation metric. This measure is described in detail in the metrics section of our [homepage](https://nl4opt.github.io/). 
@@ -45,17 +44,18 @@ This leaderboard was last updated on: October 16th, 2022
 
 | Rank | Team Name       | Affiliation(s)    | Accuracy | Team Members |
 |:----:|:---------------:|:-----------------:|:--------:|:------------:|
-| 1    | Sjang           | POSTECH           | 0.909    |              |
-| 2    | PingAn-zhiniao  | PingAn Technology | 0.893    |              |
-| 3    | UIUC-NLP        | UIUC              | 0.859    |              |
-| 4    | Long            | BDAA-BASE         | 0.831    |              |
-| 5    | Infrrd AI Lab   | Infrrd            | 0.826    |              |
+| 1    | __UIUC-NLP__        | __UIUC__              | 0.899    |              |
+| 2    | __Sjang__           | __POSTECH__           | 0.878    |              |
+| 3    | __Long__            | __BDAA-BASE__         | 0.867    |              |
+| 4    | __PingAn-zhiniao__  | __PingAn Technology__ | 0.866    |              |
+| 5    | __Infrrd AI Lab__   | __Infrrd__            | 0.780    |              |
 | 6    | KKKKKi          | Netease           | 0.815    |              |
 | T7   | Baseline (BART) | NL4Opt            | 0.608*   |              |
 | T7   | Dream           |                   | 0.608    |              |
 | T7   | CUFE            |                   | 0.608    |              |
 | 10   | November        | FSU-Jena          | 0.496    |              |
 
+__Bold__ names indicate winning teams (tentative), only reproduced submissions are ranked.
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
 
 * For this challenge, the **declaration-level mapping accuracy** is the evaluation metric. This measure is described in detail in the metrics section of our [homepage](https://nl4opt.github.io/).
