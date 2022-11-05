@@ -21,11 +21,11 @@ This leaderboard was last updated on: October 16th, 2022
 | 3    | __PingAn-zhiniao__          |  __PingAn Technology__           | __0.932__|              |
 | 4    | __Long__                    |  __BDAA-BASE__                   | __0.931__|              |
 | 5    | __VTCC-NLP__                |  __Viettel__                     | __0.929__|              |
-| 6    | Sjang                       |  __POSTECH__                     | 0.927    |              |
-| 7    | DeepBlueAI                  |  __DeepBlueAI__                  | 0.921    |              |
-| 8    | TeamFid                     |  __Fidelity__                    | 0.920    |              |
-| 9    | KKKKKi                      |  __Netease__                     | 0.917    |              |
-| 10   | holajoa                    |  __Imperial College London__      | 0.910    |              |
+| 6    | Sjang                       |  POSTECH                     | 0.927    |              |
+| 7    | DeepBlueAI                  |  DeepBlueAI                  | 0.921    |              |
+| 8    | TeamFid                     |  Fidelity                    | 0.920    |              |
+| 9    | KKKKKi                      |  Netease                     | 0.917    |              |
+| 10   | holajoa                    |  Imperial College London      | 0.910    |              |
 | 11   | Dream                      |                                  | 0.884    |              |
 | -   | LeNam                       | VNUHCM                           | 0.926    |              |
 | -   | Try1try                     | GWU                              | 0.924    |              |
@@ -44,11 +44,11 @@ __Bold__ names indicate winning teams (tentative), only reproduced submissions a
 
 | Rank | Team Name       | Affiliation(s)    | Accuracy | Team Members |
 |:----:|:---------------:|:-----------------:|:--------:|:------------:|
-| 1    | __UIUC-NLP__        | __UIUC__              | 0.899    |              |
-| 2    | __Sjang__           | __POSTECH__           | 0.878    |              |
-| 3    | __Long__            | __BDAA-BASE__         | 0.867    |              |
-| 4    | __PingAn-zhiniao__  | __PingAn Technology__ | 0.866    |              |
-| 5    | __Infrrd AI Lab__   | __Infrrd__            | 0.780    |              |
+| 1    | __UIUC-NLP__        | __UIUC__              | __0.899__    |              |
+| 2    | __Sjang__           | __POSTECH__           | __0.878__    |              |
+| 3    | __Long__            | __BDAA-BASE__         | __0.867__    |              |
+| 4    | __PingAn-zhiniao__  | __PingAn Technology__ | __0.866__    |              |
+| 5    | __Infrrd AI Lab__   | __Infrrd__            | __0.780__    |              |
 | 6    | KKKKKi          | Netease           | 0.815    |              |
 | T7   | Baseline (BART) | NL4Opt            | 0.608*   |              |
 | T7   | Dream           |                   | 0.608    |              |
