@@ -37,7 +37,8 @@ This leaderboard was last updated on: October 16th, 2022
 | -   | CTRI_ysy                    | China Telecom Research Institute | 0.902    |              |
 | -   | CUFE                        | Cairo University                 | 0.889    |              |
 
-__Bold__ names indicate winning teams (tentative), only reproduced submissions are ranked.
+__Bold__ names indicate winning teams (tentative), only reproduced submissions are ranked. 
+
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
 
 * For this challenge, the **micro-averaged F1 score** is the evaluation metric. This measure is described in detail in the metrics section of our [homepage](https://nl4opt.github.io/). 
@@ -58,6 +59,7 @@ __Bold__ names indicate winning teams (tentative), only reproduced submissions a
 | -   | November        | FSU-Jena          | 0.496    |              |
 
 __Bold__ names indicate winning teams (tentative), only reproduced submissions are ranked.
+
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
 
 * For this challenge, the **declaration-level mapping accuracy** is the evaluation metric. This measure is described in detail in the metrics section of our [homepage](https://nl4opt.github.io/).
