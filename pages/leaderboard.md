@@ -16,11 +16,11 @@ This leaderboard was last updated on: October 16th, 2022
 
 | Rank | Team Name                   | Affiliation(s)                   | F1 Score  | Team Members |
 |:----:|:---------------------------:|:--------------------------------:|:---------:|:------------:|
-| 1    | __Infrrd AI Lab__           | __Infrrd__                       | __0.939__ |              |
-| 2    | __mcmc__                    | __OPD__                          | __0.933__ |              |
-| 3    | __PingAn-zhiniao__          | __PingAn Technology__            | __0.932__ |              |
-| 4    | __Long__                    | __BDAA-BASE__                    | __0.931__ |              |
-| 5    | __VTCC-NLP__                | __Viettel__                      | __0.929__ |              |
+| 1    | Infrrd AI Lab           | Infrrd                       | 0.939 |              |
+| 2    | mcmc                    | OPD                          | 0.933 |              |
+| 3    | PingAn-zhiniao          | PingAn Technology            | 0.932 |              |
+| 4    | Long                    | BDAA-BASE                    | 0.931 |              |
+| 5    | VTCC-NLP                | Viettel                      | 0.929 |              |
 | 6    | Sjang                       | POSTECH                          | 0.927     |              |
 | 7    | DeepBlueAI                  | DeepBlueAI                       | 0.921     |              |
 | 8    | TeamFid                     | Fidelity                         | 0.920     |              |
@@ -37,7 +37,7 @@ This leaderboard was last updated on: October 16th, 2022
 | -    | macd                        |                                  | -         |              |
 | -    | rs                          |                                  | -         |              |
 
-__Bold__ names indicate winning teams (tentative), only reproduced submissions are ranked. 
+The current leaderboard represents the tentative final ranking, only reproduced submissions are ranked. 
 
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
 
@@ -47,18 +47,18 @@ __Bold__ names indicate winning teams (tentative), only reproduced submissions a
 
 | Rank | Team Name          | Affiliation(s)        | Accuracy  | Team Members |
 |:----:|:------------------:|:---------------------:|:---------:|:------------:|
-| 1    | __UIUC-NLP__       | __UIUC__              | __0.899__ |              |
-| 2    | __Sjang__          | __POSTECH__           | __0.878__ |              |
-| 3    | __Long__           | __BDAA-BASE__         | __0.867__ |              |
-| 4    | __PingAn-zhiniao__ | __PingAn Technology__ | __0.866__ |              |
-| 5    | __Infrrd AI Lab__  | __Infrrd__            | __0.780__ |              |
-| 6    | KKKKKi             | Netease               | 0.815     |              |
+| 1    | UIUC-NLP       | UIUC              | 0.899 |              |
+| 2    | Sjang          | POSTECH           | 0.878 |              |
+| 3    | Long           | BDAA-BASE         | 0.867 |              |
+| 4    | PingAn-zhiniao | PingAn Technology | 0.866 |              |
+| 5    | Infrrd AI Lab  | Infrrd            | 0.780 |              |
+| 6    | KKKKKi             | Netease               | 0.634     |              |
 | -    | Baseline (BART)    | NL4Opt                | -         |              |
 | -    | Dream              |                       | -         |              |
 | -    | CUFE               |                       | -         |              |
 | -    | November           | FSU-Jena              | -         |              |
 
-__Bold__ names indicate winning teams (tentative), only reproduced submissions are ranked.
+The current leaderboard represents the tentative final ranking, only reproduced submissions are ranked.
 
 *\* Details and a tutorial of the baseline can be found in the [Tutorial page](https://nl4opt.github.io/tutorial/).*
 
