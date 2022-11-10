@@ -31,7 +31,7 @@ This leaderboard was last updated on: October 16th, 2022
 | -    | Try1try                     | GWU                              | -         |              |
 | -    | BK                          |                                  | -         |              |
 | -    | UIUC-NLP                    | UIUC                             | -         |              |
-| -    | Baseline (XLM-RoBERTa-base) | Nl4Opt                           | -         |              |
+| -    | Baseline (XLM-RoBERTa-base) | Nl4Opt                           | 0.906*     |              |
 | -    | CTRI_ysy                    | China Telecom Research Institute | -         |              |
 | -    | CUFE                        | Cairo University                 | -         |              |
 | -    | macd                        |                                  | -         |              |
@@ -53,7 +53,7 @@ The current leaderboard represents the tentative final ranking, only reproduced 
 | 4    | PingAn-zhiniao | PingAn Technology | 0.866 |              |
 | 5    | Infrrd AI Lab  | Infrrd            | 0.780 |              |
 | 6    | KKKKKi             | Netease               | 0.634     |              |
-| -    | Baseline (BART)    | NL4Opt                | -         |              |
+| -    | Baseline (BART)    | NL4Opt                | 0.608*    |              |
 | -    | Dream              |                       | -         |              |
 | -    | CUFE               |                       | -         |              |
 | -    | November           | FSU-Jena              | -         |              |
