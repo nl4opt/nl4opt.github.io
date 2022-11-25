@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Winners of NL4Opt
+title: Results
 permalink: /results/
 ---
 
