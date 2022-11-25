@@ -1,10 +1,10 @@
----
+```yaml
 layout: default
-title: Winners of NL4Opt
+title: Results
 permalink: /results/
----
+```
 
-# Winners of NL4Opt
+# Results
 
 ## <u>Subtask 1</u>
 
