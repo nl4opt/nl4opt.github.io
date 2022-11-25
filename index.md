@@ -23,7 +23,7 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 
 # Winners of Nl4Opt
 
-For more details of the final standings, access the [leaderboard](https://nl4opt.github.io/results/#leaderboard).
+For more details of the final standings, access the [leaderboard](https://nl4opt.github.io/results/#leaderboard). You can also find details on [how the winners were determined]([Results | NL4Opt](https://nl4opt.github.io/results/#how-winners-are-determined)).
 
 ## <u>Subtask 1</u>
 
@@ -128,8 +128,6 @@ For more details of the final standings, access the [leaderboard](https://nl4opt
 - **Method:** Multitask training with input preprocessing
 
 - **Test Accuracy:** 0.780
-
- 
 
 # News
 

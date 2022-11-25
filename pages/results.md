@@ -110,6 +110,14 @@ permalink: /results/
 
 - **Test Accuracy:** 0.780
 
+## How winners are determined
+
+* Both subtasks were evaluated in the same manner.
+
+* In the **initial phase** of the competition, the participants trained their model on their own servers and submitted their trained checkpoints. The organizers evaluate the submitted checkpoints on the same hardware RTX 6000 (14 vCPUs, 46 GiB RAM). The evaluation score and logs were provided to the participants for feedback.
+
+* In the **final phase** of the competition, the organizers ran the training and evaluation code of the participants on the same server. The server configuration with 8x A100 GPUs (1800 GiB RAM) was selected so that all participant's models could fit in the GPU memory and it was shared to the participants. The final score was used to determine the winners.
+
 # Leaderboard
 
 The score is based on the performance of the models ran by the organizers on the same training and evaluation server.
