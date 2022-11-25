@@ -23,7 +23,7 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 
 # Winners of Nl4Opt
 
-For more details of the final standings, access the [leaderboard](https://nl4opt.github.io/results/#leaderboard). You can also find details on [how the winners were determined]([Results | NL4Opt](https://nl4opt.github.io/results/#how-winners-are-determined)).
+For more details of the final standings, access the [leaderboard](https://nl4opt.github.io/results/#leaderboard). You can also find details on [how the winners were determined](https://nl4opt.github.io/results/#how-winners-are-determined).
 
 ## <u>Subtask 1</u>
 
