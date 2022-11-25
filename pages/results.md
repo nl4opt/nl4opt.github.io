@@ -1,10 +1,10 @@
 ```yaml
 layout: default
-title: Leaderboard
-permalink: /leaderboard/
+title: Winners of NL4Opt
+permalink: /results/
 ```
 
-# Winners of Nl4Opt
+# Winners of NL4Opt
 
 ## <u>Subtask 1</u>
 

@@ -41,7 +41,7 @@ last-modified-at:
     date-format: '%d-%b-%y'
 
 header_pages:
-  
+  - pages/results.md
   - pages/rules.md
   - pages/faq.md
   - pages/participate.md
@@ -49,7 +49,6 @@ header_pages:
   - pages/gettingstarted.md
   - pages/tutorial.md
   - pages/submissions.md
-  - pages/leaderboard.md
   - pages/contact.md
 
 markdown: kramdown
