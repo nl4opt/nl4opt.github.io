@@ -50,6 +50,7 @@ header_pages:
   - pages/tutorial.md
   - pages/submissions.md
   - pages/contact.md
+  - pages/leaderboard.md
 
 markdown: kramdown
 
