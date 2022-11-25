@@ -21,7 +21,9 @@ title: Welcome to the NL4Opt competition website
 
 You can find the competition [rules](https://nl4opt.github.io/rules/) and answers to [commonly asked questions](https://nl4opt.github.io/faq/) on this website.
 
-# Winners of Nl4Opt ([Results](https://nl4opt.github.io/results/))
+# Winners of Nl4Opt
+
+For more details of the final standings, access the [leaderboard](https://nl4opt.github.io/results/#leaderboard).
 
 ## <u>Subtask 1</u>
 
@@ -126,6 +128,10 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 - **Method:** Multitask training with input preprocessing
 
 - **Test Accuracy:** 0.780
+
+# 
+
+# 
 
 # News
 
