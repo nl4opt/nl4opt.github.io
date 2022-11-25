@@ -129,9 +129,7 @@ For more details of the final standings, access the [leaderboard](https://nl4opt
 
 - **Test Accuracy:** 0.780
 
-# 
-
-# 
+ 
 
 # News
 
