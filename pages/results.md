@@ -154,7 +154,7 @@ The score is based on the performance of the models ran by the organizers on the
 | 3    | **Long**           | **BDAA-BASE**         | **0.867** |              |
 | 4    | **PingAn-zhiniao** | **PingAn Technology** | **0.866** |              |
 | 5    | **Infrrd AI Lab**  | **Infrrd**            | **0.780** |              |
-| 6    | KKKKKi             | Netease               | 0.815     |              |
+| 6    | KKKKKi             | Netease               | 0.634     |              |
 | -    | Baseline (BART)    | NL4Opt                | -         |              |
 | -    | Dream              |                       | -         |              |
 | -    | CUFE               |                       | -         |              |
