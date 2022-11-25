@@ -1,4 +1,5 @@
 ---
+
 # Feel free to add content and custom Front Matter to this file.
 
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
@@ -21,68 +22,187 @@ title: Welcome to the NL4Opt competition website
 
 You can find the competition [rules](https://nl4opt.github.io/rules/) and answers to [commonly asked questions](https://nl4opt.github.io/faq/) on this website.
 
+# Winners of Nl4Opt ([Leaderboard](https://nl4opt.github.io/leaderboard/))
+
+## <u>Subtask 1</u>
+
+### 1st place: Infrrd AI Lab
+
+* **Team members**: JiangLong He, Mamatha N., Shiv Vignesh, Deepak Kumar, Akshay Uppal
+
+* **Affiliation**: Infrrd
+
+* **Method:** Ensemble learning with text augmentation and segment shuffling
+
+* **Test F1-score:** 0.939
+
+### 2nd place: mcmc
+
+- **Team members**: Kangxu Wang, Ze Chen, Jiewen Zheng
+
+- **Affiliation**: OPD
+
+- **Method:** Ensemble learning with fast gradient method and sentence retokenization
+
+- **Test F1-score:** 0.933
+
+### 3rd place: PingAn-zhiniao
+
+- **Team members**: Qi Zeng
+
+- **Affiliation**: PingAn International Smart City
+
+- **Method:** Global pointer and multi-head decoder
+
+- **Test F1-score:** 0.932
+
+### 4th place: Long
+
+- **Team members**: Jiayu Liu, Longhu Qin, Yuting Ning, Tong Xiao, Shangzi Xue, Zhenya Huang, Qi Liu, Enhong Chen, Jinze Wu
+
+- **Affiliation**: BDAA-BASE
+
+- **Method:** Ensemble learning with adversarial training and post processing
+
+- **Test F1-score:** 0.931
+
+### 5th place: VTCC-NLP
+
+- **Team members**: Dung Dong-Xuan
+
+- **Affiliation**: Viettel Cyberspace Center, Viettel Group
+
+- **Method:** Ensemble learning
+
+- **Test F1-score:** 0.929
+
+## <u>Subtask 2</u>
+
+### 1st place: UIUC-NLP
+
+- **Team members**: Neeraj Gangwar, Nickvash Kani
+
+- **Affiliation**: University of Illinois Urbana-Champaign
+
+- **Method:** Tagged input and decode all-at-once strategy
+
+- **Test Accuracy:** 0.899
+
+### 2nd place: Sjang
+
+- **Team members**: Sanghwan Jang
+
+- **Affiliation**: POSTECH
+
+- **Method:** Learn entity tag embedding and data augmentation
+
+- **Test Accuracy:** 0.878
+
+### 3rd place: Long
+
+- **Team members**: Jiayu Liu, Longhu Qin, Yuting Ning, Tong Xiao, Shangzi Xue, Zhenya Huang, Qi Liu, Enhong Chen, Jinze Wu
+
+- **Affiliation**: BDAA-BASE
+
+- **Method:** Prompt re-design + data augmentation + adversarial training
+
+- **Test Accuracy:** 0.867
+
+### 4th place: PingAn-zhiniao
+
+- **Team members**: Xiuyuan Yang, Yixiu Wang
+
+- **Affiliation**: PingAn International Smart City
+
+- **Method:** Data augmentation and dropout regularization
+
+- **Test Accuracy:** 0.866
+
+### 5th place: Infrrd AI Lab
+
+- **Team members**: JiangLong He, Mamatha N., Shiv Vignesh, Deepak Kumar, Akshay Uppal
+
+- **Affiliation**: Infrrd
+
+- **Method:** Multitask training with input preprocessing
+
+- **Test Accuracy:** 0.780
+
 # News
+
 ## 2022-11-04
+
 1. The winners have been tentatively announced (see [leaderboard](https://nl4opt.github.io/leaderboard/)). 
 2. We require the winning teams to fill out the Google Form (sent via email) with information describing their submissions. 
 3. All other teams are also encouraged to fill out the form, where submissions with enough novelty may be invited to submit a technical report.
 
 ## 2022-10-26
+
 1. We will be announcing the winner on November 4th, the deadline for submitting your training scripts is set to be October 28th.
 
 ## 2022-09-16
-1. We will be hosting two additional Zoom Q&A Sessions (focusing on subtask-2)
 
-    * The first session will be on September 22nd 11am-12pm PST, the second session will be on September 22nd 10-11pm PST
-    
-    * Please check your email for links to both Zoom sessions
+1. We will be hosting two additional Zoom Q&A Sessions (focusing on subtask-2)
+   
+   * The first session will be on September 22nd 11am-12pm PST, the second session will be on September 22nd 10-11pm PST
+   
+   * Please check your email for links to both Zoom sessions
 
 ## 2022-08-25
+
 1. Subtask-2's baseline has been updated to use `spans` instead of `obj_declaration` and `const_declaration` in the dictionaries. See [discussion 32](https://github.com/nl4opt/nl4opt-competition/discussions/32) for more details. Please pull this code if you are planning on using the baseline code.
 
 ## 2022-08-22
+
 1. For subtask-1 baseline, default argument for `max_length` for input has been updated from `100` to `200`. You should also update this value for you own model. Please pull our latest version from [our repo](https://github.com/nl4opt/nl4opt-subtask1-baseline) if you plan on running the baseline code.
 2. TBA: similar changes will announced for the baseline model for subtask-2
 
 ## 2022-08-18
+
 1. Due to the problems with CUDA compatibility for older libraries, we have decided to switch the GPU instance for evaluation to RTX 6000 (14 vCPUs, 46 GiB RAM).
 2. We have changed the evaluation schedule to two per week on __Wednesday__ and __Friday__, please ensure that your submission is uploaded to the Google Drive Folder by 8am [PST](https://time.is/PT) on the same days.
 
 ## 2022-08-09 Announcements
+
 1. We have created an example submission folder on Google Drive ([Link](https://drive.google.com/drive/folders/18Rji40KTmKBMmkg_SbuUjsYciIIlrqEW?usp=sharing)) using the baseline models for both subtasks.
 2. The slides from the Zoom Q\&A Sessions are available in the Competition Github Repo ([Link](https://github.com/nl4opt/nl4opt-competition/blob/main/NL4OPT_Q_A_Sessions.pdf))
 
 ## 2022-07-26 Announcements
+
 1. We will begin evaluating the submissions for both tasks after July 26 12pm PST
-    * GPU instance on Lambda Labs will be used to test your submissions, the instance has 1x A6000 (48GB) with 14 vCPUs, and 100 GiB RAM (You can test your script by creating an instance and running it on dev data). 
-
-    * Please ensure your script finish execution in a reasonable amount of time (<10 min), and refrain from downloading unnecessarily large files to the local file system.
-
-    * We will upload the shell output `evaluation.out` to your Google Drive directory, so you can debug your code before the next submission.
+   
+   * GPU instance on Lambda Labs will be used to test your submissions, the instance has 1x A6000 (48GB) with 14 vCPUs, and 100 GiB RAM (You can test your script by creating an instance and running it on dev data). 
+   
+   * Please ensure your script finish execution in a reasonable amount of time (<10 min), and refrain from downloading unnecessarily large files to the local file system.
+   
+   * We will upload the shell output `evaluation.out` to your Google Drive directory, so you can debug your code before the next submission.
 
 2. We will be hosting two Zoom Q&A Sessions
-
-    * The first session will be on August 9th 1-2pm PST, the second session will be on August 9th 10-11pm PST
-    
-    * Please check your email for links to both Zoom sessions
+   
+   * The first session will be on August 9th 1-2pm PST, the second session will be on August 9th 10-11pm PST
+   
+   * Please check your email for links to both Zoom sessions
 
 ## 2022-07-22 Announcements
 
 1. Please check if your team has received an email with link to your Google Drive folder used for evaluating your submissions
-    * More instructions for the evaluations on the test set will be available in the upcoming week
-
-    * If you received more than one email with different Google Drive links, please check and use the one that is accessible to you.
+   
+   * More instructions for the evaluations on the test set will be available in the upcoming week
+   
+   * If you received more than one email with different Google Drive links, please check and use the one that is accessible to you.
 
 2. __Revisions for Sub-task 1 dataset__: As described in the [Data repository](https://github.com/nl4opt/nl4opt-competition), we have removed white space tokens from the NER dataset. The held-out test set has also been updated to the same format.
 
 ## 2022-07-05 Announcements
 
 1. The data and starter-kits have been released!
-    * [Data repository](https://github.com/nl4opt/nl4opt-competition)
+   
+   * [Data repository](https://github.com/nl4opt/nl4opt-competition)
+   
+   * [Sub-task 1 repository](https://github.com/nl4opt/nl4opt-subtask1-baseline)
+   
+   * [Sub-task 2 repository](https://github.com/nl4opt/nl4opt-subtask2-baseline)
 
-    * [Sub-task 1 repository](https://github.com/nl4opt/nl4opt-subtask1-baseline)
-
-    * [Sub-task 2 repository](https://github.com/nl4opt/nl4opt-subtask2-baseline)
 2. The organizers are planning to host a Q&A session by the end of the month. If you are running into issues with your submission or have any other questions, please feel free to join us. More details will be shared closer to the date! 
 
 3. Keep an eye out on your email for the instructions for submission in the upcoming week! The submission portal opens on July 15th. 
