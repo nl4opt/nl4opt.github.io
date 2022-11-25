@@ -132,7 +132,7 @@ You can find the competition [rules](https://nl4opt.github.io/rules/) and answer
 ## 2022-11-25
 
 1. **The winners have been announced** (see [results](https://nl4opt.github.io/results/)). 
-2. We invite you register for a "virtual only pass" at [NeurIPS 2022 pass](https://nips.cc/Register2) and join our [online workshop](https://neurips.cc/virtual/2022/competition/50079). Our winners and some invited teams will be presenting talks and more details can be discussed during our poster session. The workshop will be on Dec. 8th 01:00 - 04:00 AM UTC or Dec. 7th 1700-20:00 PM PST.
+2. We invite you to register for a "virtual only pass" at [NeurIPS 2022 pass](https://nips.cc/Register2) and join our [online workshop](https://neurips.cc/virtual/2022/competition/50079). Our winners and some invited teams will be presenting talks and more details can be discussed during our poster session. The workshop will be on Dec. 8th 01:00 - 04:00 AM UTC or Dec. 7th 1700-20:00 PM PST.
 3. Thank you all for your hard work and participation. We look forward to seeing you at our online workshop or in-person poster session.
 
 ## 2022-10-26
