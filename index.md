@@ -69,7 +69,7 @@ For more details of the final standings, access the [leaderboard](https://nl4opt
 
 ### 5th place: VTCC-NLP
 
-- **Team members**: Dung Dong-Xuan
+- **Team members**: Xuan-Dung Doan
 
 - **Affiliation**: Viettel Cyberspace Center, Viettel Group
 
