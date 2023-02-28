@@ -19,8 +19,6 @@ title: Welcome to the NL4Opt competition website
         </a>
 </div>
 
-
-
 Please cite our [preprint](http://arxiv.org/abs/2209.15565) if our dataset or competition aids you in your research.
 
 ```
@@ -145,6 +143,14 @@ For more details of the final standings, access the [leaderboard](https://nl4opt
 - **Test Accuracy:** 0.780
 
 # News
+
+## 2023-02-28
+
+1. **We have released the test set for both the [generation](https://github.com/nl4opt/nl4opt-competition/tree/main/generation_data) and [NER](https://github.com/nl4opt/nl4opt-competition/tree/main/ner_data) tasks.** 
+
+2. We encourage you to evaluate your new methods against the results reported above.
+
+
 
 ## 2022-11-25
 
