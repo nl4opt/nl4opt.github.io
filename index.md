@@ -22,15 +22,26 @@ title: Welcome to the NL4Opt competition website
 Please cite our [preprint](http://arxiv.org/abs/2209.15565) if our dataset or competition aids you in your research.
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2209.15565,
-  doi = {10.48550/ARXIV.2209.15565},
-  url = {https://arxiv.org/abs/2209.15565},
-  author = {Ramamonjison, Rindranirina and Li, Haley and Yu, Timothy T. and He, Shiqi and Rengan, Vishnu and Banitalebi-Dehkordi, Amin and Zhou, Zirui and Zhang, Yong},
-  keywords = {Computation and Language (cs.CL), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {Augmenting Operations Research with Auto-Formulation of Optimization Models from Problem Descriptions},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@inproceedings{ramamonjison-etal-2022-augmenting,
+  title = "Augmenting Operations Research with Auto-Formulation of Optimization Models From Problem Descriptions",
+  author = "Ramamonjison et al,.",
+  booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing: Industry Track",
+  month = dec,
+  year = "2022",
+  address = "Abu Dhabi, UAE",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/2022.emnlp-industry.4",
+  pages = "29--62",
+}
+
+@misc{ramamonjison2023nl4opt,
+  title={NL4Opt Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions},
+  author={Ramamonjison et al.},
+  year={2023},
+  eprint={2303.08233},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/abs/2303.08233}
 }
 ```
 
@@ -146,7 +157,7 @@ For more details of the final standings, access the [leaderboard](https://nl4opt
 
 ## 2023-02-28
 
-1. **We have released the test set for both the [generation](https://github.com/nl4opt/nl4opt-competition/tree/main/generation_data) and [NER](https://github.com/nl4opt/nl4opt-competition/tree/main/ner_data) tasks.** 
+1. **We have released the test set for both the [generation](https://github.com/nl4opt/nl4opt-competition/tree/main/generation_data) and [NER](https://github.com/nl4opt/nl4opt-competition/tree/main/ner_data) tasks.**
 
 2. We encourage you to evaluate your new methods against the results reported above.
 
@@ -154,7 +165,7 @@ For more details of the final standings, access the [leaderboard](https://nl4opt
 
 ## 2022-11-25
 
-1. **The winners have been announced** (see [results](https://nl4opt.github.io/results/)). 
+1. **The winners have been announced** (see [results](https://nl4opt.github.io/results/)).
 2. We invite you to register for a "virtual only pass" at [NeurIPS 2022 pass](https://nips.cc/Register2) and join our [online workshop](https://neurips.cc/virtual/2022/competition/50079). Our winners and some invited teams will be presenting talks and more details can be discussed during our poster session. The workshop will be on Dec. 8th 01:00 - 04:00 AM UTC or Dec. 7th 1700-20:00 PM PST.
 3. Thank you all for your hard work and participation. We look forward to seeing you at our online workshop or in-person poster session.
 
@@ -165,9 +176,9 @@ For more details of the final standings, access the [leaderboard](https://nl4opt
 ## 2022-09-16
 
 1. We will be hosting two additional Zoom Q&A Sessions (focusing on subtask-2)
-   
+
    * The first session will be on September 22nd 11am-12pm PST, the second session will be on September 22nd 10-11pm PST
-   
+
    * Please check your email for links to both Zoom sessions
 
 ## 2022-08-25
@@ -192,25 +203,25 @@ For more details of the final standings, access the [leaderboard](https://nl4opt
 ## 2022-07-26 Announcements
 
 1. We will begin evaluating the submissions for both tasks after July 26 12pm PST
-   
-   * GPU instance on Lambda Labs will be used to test your submissions, the instance has 1x A6000 (48GB) with 14 vCPUs, and 100 GiB RAM (You can test your script by creating an instance and running it on dev data). 
-   
+
+   * GPU instance on Lambda Labs will be used to test your submissions, the instance has 1x A6000 (48GB) with 14 vCPUs, and 100 GiB RAM (You can test your script by creating an instance and running it on dev data).
+
    * Please ensure your script finish execution in a reasonable amount of time (<10 min), and refrain from downloading unnecessarily large files to the local file system.
-   
+
    * We will upload the shell output `evaluation.out` to your Google Drive directory, so you can debug your code before the next submission.
 
 2. We will be hosting two Zoom Q&A Sessions
-   
+
    * The first session will be on August 9th 1-2pm PST, the second session will be on August 9th 10-11pm PST
-   
+
    * Please check your email for links to both Zoom sessions
 
 ## 2022-07-22 Announcements
 
 1. Please check if your team has received an email with link to your Google Drive folder used for evaluating your submissions
-   
+
    * More instructions for the evaluations on the test set will be available in the upcoming week
-   
+
    * If you received more than one email with different Google Drive links, please check and use the one that is accessible to you.
 
 2. __Revisions for Sub-task 1 dataset__: As described in the [Data repository](https://github.com/nl4opt/nl4opt-competition), we have removed white space tokens from the NER dataset. The held-out test set has also been updated to the same format.
@@ -218,16 +229,16 @@ For more details of the final standings, access the [leaderboard](https://nl4opt
 ## 2022-07-05 Announcements
 
 1. The data and starter-kits have been released!
-   
+
    * [Data repository](https://github.com/nl4opt/nl4opt-competition)
-   
+
    * [Sub-task 1 repository](https://github.com/nl4opt/nl4opt-subtask1-baseline)
-   
+
    * [Sub-task 2 repository](https://github.com/nl4opt/nl4opt-subtask2-baseline)
 
-2. The organizers are planning to host a Q&A session by the end of the month. If you are running into issues with your submission or have any other questions, please feel free to join us. More details will be shared closer to the date! 
+2. The organizers are planning to host a Q&A session by the end of the month. If you are running into issues with your submission or have any other questions, please feel free to join us. More details will be shared closer to the date!
 
-3. Keep an eye out on your email for the instructions for submission in the upcoming week! The submission portal opens on July 15th. 
+3. Keep an eye out on your email for the instructions for submission in the upcoming week! The submission portal opens on July 15th.
 
 # Important Dates
 
