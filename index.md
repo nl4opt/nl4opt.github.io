@@ -19,7 +19,7 @@ title: Welcome to the NL4Opt competition website
         </a>
 </div>
 
-Please cite our [preprint](http://arxiv.org/abs/2209.15565) if our dataset or competition aids you in your research.
+Please cite our [papers](http://arxiv.org/abs/2209.15565) if our dataset or competition aids you in your research.
 
 ```
 @inproceedings{ramamonjison-etal-2022-augmenting,
